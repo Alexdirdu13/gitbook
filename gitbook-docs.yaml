@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: help.ingeneo.eu
+  structure:
+    - type: space
+      key: space-1
+      title: help ingeneo
+      path: help.ingeneo.eu
+      default: true
+      content:
+        directory: ./help.ingeneo.eu
+        language: fr
