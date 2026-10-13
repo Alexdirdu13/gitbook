@@ -22,6 +22,7 @@
     * [Gestion des mots-clés](ingeneo-pre-compta/gestion-des-documents/gestion-des-mots-cles.md)
     * [Classeur de plan de classement](ingeneo-pre-compta/gestion-des-documents/classeur-de-plan-de-classement.md)
     * [Annexes comptables](ingeneo-pre-compta/gestion-des-documents/annexes-comptables.md)
+    * [Comment prendre en charge ou refuser une facture électronique dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/comment-prendre-en-charge-ou-refuser-une-facture-electronique-dans-ingeneo-precompta.md)
   * [COLLECTE AUTOMATIQUE](ingeneo-pre-compta/collecte-automatique/README.md)
     * [Paramétrage Google Drive](ingeneo-pre-compta/collecte-automatique/parametrage-google-drive.md)
     * [Paramétrage SharePoint](ingeneo-pre-compta/collecte-automatique/parametrage-sharepoint.md)
