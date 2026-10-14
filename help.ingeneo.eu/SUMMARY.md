@@ -114,7 +114,7 @@
       * [Guide de démarrage](portail-de-services/cote-entreprise/module-ventes/guide-de-demarrage.md)
       * [Paramétrage du module de ventes](portail-de-services/cote-entreprise/module-ventes/parametrage-du-module-de-ventes.md)
       * [Ajouter un produit](portail-de-services/cote-entreprise/module-ventes/ajouter-un-produit.md)
-      * [Créer un devis](portail-de-services/cote-entreprise/module-ventes/creer-un-devis.md)
+      * [Comment créer un devis dans INGENEO ENTREPRISE ?](portail-de-services/cote-entreprise/module-ventes/comment-creer-un-devis-dans-ingeneo-entreprise.md)
       * [Créer une facture](portail-de-services/cote-entreprise/module-ventes/creer-une-facture.md)
       * [Créer un abonnement](portail-de-services/cote-entreprise/module-ventes/creer-un-abonnement.md)
       * [Les vidéos](portail-de-services/cote-entreprise/module-ventes/les-videos.md)
