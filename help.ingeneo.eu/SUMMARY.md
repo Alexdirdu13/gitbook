@@ -5,7 +5,7 @@
   * [GESTION DES ENTREPRISES](ingeneo-pre-compta/gestion-des-entreprises/README.md)
     * [Créer une entreprise](ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise.md)
     * [Créer des entreprises en masse](ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise-1.md)
-    * [Paramétrages généraux](ingeneo-pre-compta/gestion-des-entreprises/parametrages-generaux.md)
+    * [Comment modifier les informations générales d'une entreprise](ingeneo-pre-compta/gestion-des-entreprises/parametrages-generaux.md)
     * [Paramétrage comptabilité](ingeneo-pre-compta/gestion-des-entreprises/parametrage-comptabilite.md)
     * [Classeurs & éléments comptables](ingeneo-pre-compta/gestion-des-entreprises/classeurs-comptables.md)
     * [Référentiels comptables](ingeneo-pre-compta/gestion-des-entreprises/referentiels-comptables.md)
