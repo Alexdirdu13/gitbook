@@ -40,7 +40,7 @@ Un produit peut être créé à la volée depuis un devis ou une facture.
 {% step %}
 ### Créer un devis
 
-<a href="les-videos.md#creation-dun-devis" class="button secondary" data-icon="youtube">Vidéo</a><a href="comment-creer-un-devis-dans-ingeneo-entreprise.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
+<a href="les-videos.md#creation-dun-devis" class="button secondary" data-icon="youtube">Vidéo</a><a href="creer-un-devis.md" class="button secondary" data-icon="book-open-cover">Documentation</a>
 
 Lors de cette action, vous construisez un document détaillant les produits ou services proposés, ainsi que leurs conditions tarifaires.
 
