@@ -6,7 +6,7 @@ description: >-
 
 # Comment prendre en charge ou refuser une facture électronique dans INGENEO PRECOMPTA ?
 
-**Résumé :** Cette procédure permet d'appliquer le statut `Prise en charge` ou `Refusée` à une facture électronique reçue dans INGENEO PRECOMPTA. **Le statut `Prise en charge` déverrouille la présaisie comptable de la facture.** La procédure prend quelques secondes par facture. Elle nécessite un profil qui autorise ces statuts dans l'onglet `Droits sur les classeurs`.
+**Résumé :** Cette procédure permet d'appliquer le statut `Prise en charge` ou `Refusée` à une facture électronique reçue dans INGENEO PRECOMPTA. **Le statut `Prise en charge` déverrouille la présaisie comptable de la facture.** La procédure prend quelques secondes par facture. Elle nécessite le droit `Autoriser l'application du statut « Refusée »` dans l'onglet `Droits sur les classeurs`.
 
 ## Objectif
 
@@ -19,7 +19,7 @@ Le statut `Refusée` renvoie la facture au fournisseur, sans présaisie comptabl
 ## Prérequis
 
 * Dans INGENEO PRECOMPTA, l'entreprise est enrôlée sur la PA SEPTEO.
-* Le profil de l'utilisateur autorise les statuts `Prise en charge` et `Refusée` sur le classeur concerné, dans l'onglet `Droits sur les classeurs`.
+* Le profil de l'utilisateur inclut le droit `Autoriser l'application du statut « Refusée »` pour le classeur d'achats concerné, dans l'onglet `Droits sur les classeurs`. Ce droit active les boutons `Prise en charge` et `Refusée`.
 * Ce droit se règle sur le profil de site ou sur le profil d'entreprise. Si l'utilisateur a les deux, le profil d'entreprise prévaut.
 * Le document est une facture électronique. Dans le menu `Bannettes`, une facture électronique porte un X sur l'icône de document, à gauche de son titre.
 
@@ -36,7 +36,7 @@ Le statut `Refusée` renvoie la facture au fournisseur, sans présaisie comptabl
 9. Si vous souhaitez préciser le refus, saisissez un commentaire dans la fenêtre de refus. Le commentaire est transmis au fournisseur.
 10. Cliquez sur `Refuser une facture`.
 
-Dans INGENEO PRECOMPTA, la fenêtre de refus affiche uniquement les libellés des motifs. La configuration par défaut propose ces motifs pour le statut `Refusée` :
+Dans INGENEO PRECOMPTA, la fenêtre de refus affiche uniquement les libellés des motifs. Ces motifs sont proposés pour le statut `Refusée` :
 
 | Libellé affiché                               | Code associé       |
 | --------------------------------------------- | ------------------ |
@@ -54,7 +54,7 @@ Dans INGENEO PRECOMPTA, la fenêtre de refus affiche uniquement les libellés de
 | `Adresse de facturation électronique erronée` | `ADR_ERR`          |
 | `Référence contractuelle manquante`           | `REF_CT_ABSENT`    |
 
-Si l'entreprise utilise la `Configuration personnalisée pour cette entreprise`, certains de ces motifs peuvent avoir été retirés.
+Ces codes motifs ne peuvent pas être modifiés, quelle que soit la configuration de l'entreprise.
 
 ## Résultat attendu
 
@@ -66,11 +66,13 @@ Après un clic sur `Refuser une facture`, la facture est renvoyée au fournisseu
 
 * **Message `Un statut cycle de vie FE doit être défini avant de pouvoir enregistrer le document.` :** dans INGENEO PRECOMPTA, ce message s'affiche à l'enregistrement du document. Il indique que la facture électronique n'a pas le statut `Prise en charge`. Cliquez sur `Prise en charge` dans l'encart de saisie de la facture.
 * **Facture refusée par erreur :** dans INGENEO PRECOMPTA, le statut `Refusée` est terminal et ne peut pas être annulé. Le fournisseur doit émettre une nouvelle facture avec un nouveau numéro de facture.
-* **Bouton `Prise en charge` absent :** dans INGENEO PRECOMPTA, si le bouton `Prise en charge` ne s'affiche pas dans l'encart de saisie, l'utilisateur n'a pas les droits. Son profil n'autorise pas le statut `Prise en charge` dans l'onglet `Droits sur les classeurs`. Le profil d'entreprise prévaut sur le profil de site.
-* **Bouton `Refusée` absent :** dans INGENEO PRECOMPTA, si le bouton `Refusée` ne s'affiche pas dans l'encart de saisie, le profil de l'utilisateur n'autorise pas le statut `Refusée`. Vérifiez l'onglet `Droits sur les classeurs` du profil.
+* **Bouton `Prise en charge` ou `Refusée` absent :** dans INGENEO PRECOMPTA, ces deux boutons dépendent du droit `Autoriser l'application du statut « Refusée »`. Si l'un d'eux ne s'affiche pas dans l'encart de saisie, l'utilisateur n'a pas ce droit. Le profil d'entreprise prévaut sur le profil de site.
 * **Refus après prise en charge :** dans la version actuelle d'INGENEO PRECOMPTA, le statut `Refusée` ne peut pas être appliqué à une facture déjà au statut `Prise en charge`. Cette possibilité est en cours de développement.
 
 ## Fiches liées
 
+* [Comment donner les droits sur les statuts de facture ?](../administration/comment-donner-les-droits-sur-les-statuts-de-facture.md) : activation du droit `Autoriser l'application du statut « Refusée »`
+* [Comment configurer les statuts de la réforme ?](../gestion-des-entreprises/comment-configurer-les-statuts-de-la-reforme.md) : statuts et codes motifs proposés pour une entreprise
+* [Référence : codes motifs des statuts de la réforme](../gestion-des-entreprises/codes-motifs-des-statuts-de-la-reforme.md) : codes motifs de tous les statuts de la réforme
 * [Gérer les profils de droits](../administration/gerer-les-profils-de-droits.md) : réglage des droits sur les profils de site et d'entreprise
 * [La saisie comptable](la-saisie-comptable.md) : présaisie comptable d'un document
