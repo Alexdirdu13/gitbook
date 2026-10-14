@@ -132,6 +132,7 @@ Avant de traiter les factures, vérifiez la cohérence des données importées p
 <summary>Métadonnées de la fiche</summary>
 
 * id : proc-creer-entreprises-en-masse-ingeneo-precompta
+* titre\_menu : Créer des entreprises par import
 * titre : Comment créer plusieurs entreprises en une fois par import dans INGENEO PRECOMPTA ?
 * type : procedure
 * module : Gestion des entreprises

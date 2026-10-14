@@ -110,6 +110,7 @@ Les compteurs en haut de l'écran `Ventes > Devis` affichent le nombre et le mon
 <summary>Métadonnées de la fiche</summary>
 
 * id : proc-creer-devis-ingeneo-entreprise
+* titre\_menu : Créer un devis
 * type : procedure
 * module : Ventes
 * version\_outil :

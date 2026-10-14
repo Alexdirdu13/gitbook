@@ -185,6 +185,7 @@ Dans INGENEO PRECOMPTA, après un clic sur `Enregistrer` dans `Entreprises > Edi
 <summary>Métadonnées de la fiche</summary>
 
 * id : proc-modifier-informations-generales-entreprise-ingeneo-precompta
+* titre\_menu : Modifier les informations générales
 * titre : Comment modifier les informations générales et le mot de passe d'une entreprise dans INGENEO PRECOMPTA ?
 * type : procedure
 * module : Gestion des entreprises
