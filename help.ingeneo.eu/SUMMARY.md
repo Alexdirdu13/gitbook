@@ -8,7 +8,7 @@
     * [Comment modifier les informations générales d'une entreprise](ingeneo-pre-compta/gestion-des-entreprises/parametrages-generaux.md "Modifier les informations générales")
     * [Comment faire le paramétrage général de la comptabilité d'une entreprise dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/parametrage-comptabilite.md "Paramétrage général de la comptabilité")
     * [Comment faire le paramétrage avancé de la comptabilité d'une entreprise dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/parametrage-comptabilite-avance.md "Paramétrage avancé de la comptabilité")
-    * [Classeurs & éléments comptables](ingeneo-pre-compta/gestion-des-entreprises/classeurs-comptables.md)
+    * [Comment créer et paramétrer un classeur comptable dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/classeurs-comptables.md "Créer et paramétrer un classeur comptable")
     * [Référentiels comptables](ingeneo-pre-compta/gestion-des-entreprises/referentiels-comptables.md)
     * [Analytique](ingeneo-pre-compta/gestion-des-entreprises/analytique.md)
     * [Générer une archive d'entreprise](ingeneo-pre-compta/gestion-des-entreprises/generer-une-archive-dentreprise.md)
