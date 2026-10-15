@@ -17,7 +17,7 @@
     * [Codes motifs des statuts de la réforme](ingeneo-pre-compta/gestion-des-entreprises/codes-motifs-des-statuts-de-la-reforme.md)
   * [Gestion des documents](ingeneo-pre-compta/gestion-des-documents/README.md)
     * [Comment déposer manuellement des documents dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/depot-manuel-de-document.md "Déposer manuellement des documents")
-    * [La saisie comptable](ingeneo-pre-compta/gestion-des-documents/la-saisie-comptable.md)
+    * [Comment faire la pré-saisie comptable d'un document dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/la-saisie-comptable.md "Faire la pré-saisie comptable")
     * [Rechercher un document](ingeneo-pre-compta/gestion-des-documents/rechercher-un-document.md)
     * [Modifier un document](ingeneo-pre-compta/gestion-des-documents/modifier-un-document.md)
     * [Valider un document](ingeneo-pre-compta/gestion-des-documents/valider-un-document.md)
