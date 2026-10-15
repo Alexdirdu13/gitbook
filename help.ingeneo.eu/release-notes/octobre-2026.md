@@ -1,11 +1,27 @@
 ---
 description: >-
-  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.10.4,
-  2.9.10.
+  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.12.0,
+  2.11.0, 2.10.4, 2.9.10.
 icon: calendar
 ---
 
 # Octobre - 2026
+
+## Version 2.12.0 – 2026-10-15
+
+### <i class="fa-sparkles">:sparkles:</i>Nouveautés
+
+* **Mention d'IA dans le menu `Bannettes`** (Réf. 6102) : dans INGENEO PRECOMPTA, une mention dans le menu `Bannettes` informe que les données sont traitées par intelligence artificielle et doivent être validées. Cette mention respecte le règlement européen sur l'IA.
+* **Traçabilité des enrôlements** (Réf. 7060) : dans INGENEO PRECOMPTA, vous pouvez consulter le journal de la plateforme, qui détaille chaque enrôlement réussi ou échoué.
+* **Déplacement des documents par un initiateur** (Réf. 7554) : dans INGENEO PRECOMPTA, dans le menu de validation d'un document, l'initiateur d'une facture refusée peut la déplacer vers un autre classeur comptable. Ce déplacement permet de réinitialiser la validation sans effacer les historiques.
+
+## Version 2.11.0 – 2026-10-14
+
+### <i class="fa-arrow-trend-up">:arrow-trend-up:</i>Améliorations
+
+* **Impossibilité de créer un compte dans le plan comptable** (Réf. 7675) : dans INGENEO PRECOMPTA, la création d'un compte dans le plan comptable fonctionne de nouveau.
+* **Erreur 503 lors de l'ajout d'une banque** (Réf. 7677) : dans INGENEO PRECOMPTA, dans la configuration des connecteurs bancaires, l'ajout d'une banque fonctionne de nouveau.
+* **Problème avec Welyb** (Réf. 7689) : dans INGENEO PRECOMPTA, la connexion avec Welyb est de nouveau opérationnelle. Pour assurer la bonne réception de vos documents dans INGENEO PRECOMPTA, relancez leur envoi ou déposez-les à nouveau.
 
 ## Version 2.10.4 – 2026-10-12
 
