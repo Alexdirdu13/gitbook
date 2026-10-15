@@ -1,4 +1,8 @@
 ---
+description: >-
+  Déposer un ou plusieurs documents dans un classeur depuis le menu Bannettes
+  d'INGENEO PRECOMPTA, avec le droit Déposer des documents. Traitement OCRLAD :
+  quelques secondes à plusieurs minutes.
 layout:
   width: default
   title:
@@ -23,90 +27,124 @@ tags:
   - ingeneo
 ---
 
-# Dépôt manuel de document
+# Comment déposer manuellement des documents dans INGENEO PRECOMPTA ?
 
-### <sup>**Prérequis & Permissions**</sup>
+**Résumé :** Cette procédure permet de déposer manuellement un ou plusieurs documents dans un classeur d'une entreprise, depuis le menu `Bannettes` d'INGENEO PRECOMPTA. Elle nécessite le droit `Déposer des documents` sur le classeur. Le traitement OCRLAD dure de quelques secondes à plusieurs minutes.
 
-{% hint style="success" %}
-Seul un utilisateur avec le droit [**Déposer des documents**](../administration/detail-des-droits.md) dans le classeur ou l’entreprise peut déposer des documents dans la bannette.
-{% endhint %}
+## Objectif
 
-***
+Dans INGENEO PRECOMPTA, le dépôt manuel envoie des fichiers de l'ordinateur dans un classeur d'une entreprise, depuis le menu `Bannettes`. Il sert au dépôt ponctuel, d'un fichier ou de plusieurs fichiers en une fois.
 
-### <sup>**Contexte & Recommandations**</sup>
+Le bouton `Ajouter` du menu `Bannettes` propose deux choix :
 
-La gestion documentaire par bannettes permet de centraliser et traiter automatiquement vos documents comptables ou autre.
+* `Déposer des documents` : dépôt d'un ou plusieurs fichiers.
+* `Déposer et modifier un document` : dépôt d'un seul fichier, puis modification du document déposé (découper une zone, éclater, rotation).
 
-Vous disposerez :
+Pour recevoir des documents en continu sans action manuelle, INGENEO PRECOMPTA propose des canaux de collecte : mail dédié, Google Drive, Dropbox, OneDrive, SharePoint et DématBox.
 
-* D’un dépôt manuel ponctuel de documents
-* D’un import en lot de plusieurs fichiers simultanément
+## Prérequis
 
-**Alternatives disponibles** : Pour un flux automatisé régulier, privilégiez les [**canaux de collecte**](../collecte-automatique/) qui permettent la réception continue de vos documents.
+* Dans INGENEO PRECOMPTA, l'utilisateur doit avoir le droit `Déposer des documents` sur le classeur (catégorie `Droits sur les classeurs` > `Traitements`). Ce droit suffit aussi pour ajouter un commentaire au dépôt et pour utiliser `Déposer et modifier un document`.
+* Le dépôt est possible dans tous les types de classeurs.
+* Un classeur `Banque` n'accepte que les fichiers CFONB, OFX et QIF. Les options de découpage automatique et d'OCRLAD n'y sont pas proposées.
+* Pour les autres classeurs, les fichiers ZIP et Excel sont refusés. \[À VÉRIFIER : liste exacte des formats de fichiers acceptés par le dépôt manuel dans les classeurs autres que `Banque`.]
+* Un même dépôt est limité, pour toutes les entreprises et toutes les offres, à :
+  * 50 fichiers (`Nombre maximum de fichiers`) ;
+  * 1024 Mo au total pour l'ensemble des fichiers (`Taille maximale`) ;
+  * 250 pages par document (`Nombre de pages maximum pour un document`).
+* Le nombre de documents déposés n'est pas limité par entreprise. L'enregistrement des documents peut l'être selon le type de dossier (dossier faible volume : 150 documents enregistrés par année civile) et selon l'offre.
 
-***
+## Étapes
 
-### <sup>**Vidéo interactive**</sup> <sup>💡</sup>
+### Déposer un ou plusieurs documents
 
-{% @arcade/embed url="https://app.arcade.software/share/Hk9LMNuZEjWz9lcwRaJF" flowId="Hk9LMNuZEjWz9lcwRaJF" %}
+1. Dans INGENEO PRECOMPTA, cliquez sur `Bannettes` dans le menu de gauche.
+2. Sélectionnez l'entreprise dans la liste.
+3. Sélectionnez le classeur qui doit recevoir les documents.
+4. Cliquez sur `Ajouter`.
+5. Cliquez sur `Déposer des documents`.
+6. Dans l'explorateur de fichiers, sélectionnez un ou plusieurs fichiers.
+7. Cliquez sur `Ouvrir`.
+8. Dans le panneau de dépôt, vérifiez la liste des fichiers et les volumes affichés (`Taille totale actuelle`, `Nombre total de fichiers actuel`).
+9. Si un fichier ne doit pas être déposé, cliquez sur la croix rouge de sa ligne.
+10. Si un PDF contient plusieurs factures qui ne doivent pas être séparées, sélectionnez `Désactiver le découpage automatique` sur sa ligne.
+11. Si le découpage automatique ne doit s'appliquer à aucun fichier, sélectionnez `Désactiver pour tous les fichiers`.
+12. Si un document ne doit pas être océrisé, sélectionnez `Ne pas envoyer en OCRLAD` sur sa ligne.
+13. Si vous voulez joindre un commentaire à un document, cliquez sur la bulle de discussion bleue de sa ligne.
+14. Rédigez le commentaire dans le panneau de dépôt.
+15. Cliquez sur `Valider le dépôt`.
 
-***
+Dans le menu `Bannettes` d'INGENEO PRECOMPTA, les fichiers peuvent aussi être glissés-déposés depuis l'ordinateur, sans passer par l'explorateur de fichiers.
 
-### <sup>**Déposer des documents manuellement**</sup>
+### Déposer un document puis le modifier
 
-Procédez comme suit :
+1. Dans INGENEO PRECOMPTA, cliquez sur `Bannettes` dans le menu de gauche.
+2. Sélectionnez l'entreprise dans la liste.
+3. Sélectionnez le classeur qui doit recevoir le document.
+4. Cliquez sur `Ajouter`.
+5. Cliquez sur `Déposer et modifier un document`.
+6. Dans l'explorateur de fichiers, sélectionnez un seul fichier.
+7. Cliquez sur `Ouvrir`.
+8. Dans le panneau de dépôt, réglez les options du fichier (`Désactiver le découpage automatique`, `Ne pas envoyer en OCRLAD`, commentaire).
+9. Cliquez sur `Valider le dépôt`.
+10. Modifiez le document dans l'écran d'édition. C'est le même écran que pour modifier un document déjà déposé : découper une zone, éclater, rotation.
 
-1. Depuis votre interface principale, accédez au menu **Bannettes**.
-2. Sélectionnez l'**entreprise** concernée dans la liste
-3. Recherchez et sélectionnez le [**classeur**](../gestion-des-entreprises/classeurs-comptables.md) **de dépôt** approprié
-4. Cliquez sur le bouton **Ajouter**
-5. Importez vos documents via l'explorateur de fichiers
-6. Cliquez sur **Ouvrir** pour confirmer la sélection
-7. Vérifiez la liste des documents importés
-8. Ajoutez des **annotations** si nécessaire ou supprimez des fichiers non désirés
+### Options du panneau de dépôt
 
-***
+Dans le panneau de dépôt du menu `Bannettes` d'INGENEO PRECOMPTA, chaque fichier propose les options suivantes :
 
-### <sup>**Indicateurs de qualité**</sup>
+| Option                                | Effet                                                                                                                                                            |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Désactiver le découpage automatique` | Le découpage automatique sépare en plusieurs documents les factures contenues dans un même PDF. Il est actif par défaut. Cette option le retire pour le fichier. |
+| `Désactiver pour tous les fichiers`   | Retire le découpage automatique pour tous les fichiers du dépôt.                                                                                                 |
+| `Ne pas envoyer en OCRLAD`            | Le document est déposé brut : il n'est ni océrisé ni analysé, donc sans reconnaissance.                                                                          |
+| Croix rouge                           | Retire le fichier de la liste avant le dépôt.                                                                                                                    |
+| Bulle de discussion bleue             | Ajoute un commentaire au document.                                                                                                                               |
 
-Quand le traitement des documents est terminé, différents icones et smiley sont indiqués devant chaque ligne de document indiquant la qualité de connaissance par la plateforme.
+Le message `Le découpage automatique est actif sur ce classeur` indique que le classeur découpe les PDF par défaut. Pour désactiver le découpage automatique de façon permanente, ouvrez le panneau `Editer un classeur comptable`, onglet `Paramétrage avancé`, bloc `DÉPÔT DE DOCUMENT`, interrupteur `Activer le découpage automatique`.
 
-**Informations complémentaires** : Différents indicateurs informent sur la présence de note incluse au document ou si le document est en dehors de l’exercice.
+## Résultat attendu
 
-***
+Dans le menu `Bannettes` d'INGENEO PRECOMPTA, après `Valider le dépôt`, chaque fichier déposé apparaît dans le classeur sur une ligne à son nom. Une roue de chargement s'affiche pendant le traitement OCRLAD.
 
-### <sup>**Utiliser les canaux de collecte automatique**</sup>
+Ce traitement dure de quelques secondes à plusieurs minutes. La durée dépend de la connexion internet, du volume déposé et de la qualité du fichier.
 
-Pour automatiser la réception de documents, configurez les canaux suivants :
+À la fin du traitement, un indicateur de qualité de reconnaissance remplace la roue de chargement. La légende des indicateurs s'ouvre avec l'icône `i` de la colonne des entreprises du menu `Bannettes`.
 
-* [**Mail dédié** ](../collecte-automatique/parametrage-mail-dedie.md): Réception par email spécifique
-* [**Google Drive**](../collecte-automatique/parametrage-google-drive.md)**,** [**Dropbox**](../collecte-automatique/parametrage-dropbox.md)**,** [**OneDrive**](../collecte-automatique/parametrage-onedrive.md)**,** [**SharePoint** ](../collecte-automatique/parametrage-sharepoint.md): Synchronisation cloud
-* **DématBox** : Solution dédiée dématérialisation
+Si un commentaire a été ajouté au dépôt, l'indicateur `Le document contient un commentaire` apparaît. Le commentaire est visible dans la section `Notes` du document.
 
-{% hint style="info" %}
-Consultez les documentations à votre disposition pour la configuration détaillée de chaque canal.
-{% endhint %}
+## Erreurs fréquentes
 
-***
+* **Format de fichier refusé.** Dans le panneau de dépôt du menu `Bannettes` d'INGENEO PRECOMPTA, le message `Le format de fichier .mp4 n’est pas autorisé. Veuillez choisir un format supporté.` s'affiche, avec l'extension du fichier concerné. Cause : le format n'est pas accepté, par exemple un ZIP ou un fichier Excel. Solution : convertissez le fichier dans un format accepté, puis déposez-le de nouveau.
+* **Limite de dépôt dépassée.** Dans le panneau de dépôt, l'encadré des volumes autorisés passe en rouge et le dépôt est bloqué. Cause : plus de 50 fichiers, plus de 1024 Mo au total, ou un document de plus de 250 pages. Solution : retirez des fichiers avec la croix rouge, ou répartissez-les sur plusieurs dépôts.
+* **Fichier refusé dans un classeur `Banque`.** Un classeur `Banque` n'accepte que les fichiers CFONB, OFX et QIF. Solution : déposez les autres documents dans un classeur d'un autre type.
+* **Document mal reconnu après le traitement OCRLAD.** La qualité du fichier d'origine influe sur la reconnaissance. Solution : vérifiez la qualité du fichier d'origine (lisibilité, résolution du scan).
+* **Factures séparées à tort, ou PDF non découpé.** Le découpage automatique, actif par défaut, sépare les factures d'un même PDF. Solution : au dépôt, sélectionnez ou non `Désactiver le découpage automatique` sur la ligne du fichier.
 
-### <sup>**Questions fréquentes**</sup>
+## Fiches liées
 
-**Vous souhaitez comprendre la signification des symboles ?**
+* [Modifier un document](modifier-un-document.md) : écran d'édition ouvert par `Déposer et modifier un document` (découper une zone, éclater, rotation).
+* [Classeurs comptables](../gestion-des-entreprises/classeurs-comptables.md) : interrupteur `Activer le découpage automatique` du bloc `DÉPÔT DE DOCUMENT`.
+* [Détail des droits](../administration/detail-des-droits.md) : droit `Déposer des documents` sur les classeurs.
+* [Collecte automatique](../collecte-automatique/) : canaux de collecte pour recevoir des documents sans dépôt manuel ([Mail dédié](../collecte-automatique/parametrage-mail-dedie.md), [Google Drive](../collecte-automatique/parametrage-google-drive.md), [Dropbox](../collecte-automatique/parametrage-dropbox.md), [OneDrive](../collecte-automatique/parametrage-onedrive.md), [SharePoint](../collecte-automatique/parametrage-sharepoint.md)).
 
-Cliquez sur l'icône **information** dans la colonne des entreprises pour accéder à la légende complète des indicateurs.
+<details>
 
-**Votre document n'est pas bien reconnu par l'OCR ?**
+<summary>Métadonnées de la fiche</summary>
 
-Vérifiez la qualité de votre fichier original.
+* id : proc-deposer-documents-manuellement-ingeneo-precompta
+* titre : Comment déposer manuellement des documents dans INGENEO PRECOMPTA ?
+* titre\_menu : Déposer manuellement des documents
+* type : procedure
+* module : Gestion des documents
+* version\_outil : toutes
+* roles\_concernes : utilisateur avec le droit `Déposer des documents`
+* tags : dépôt, Bannettes, OCRLAD, découpage automatique, classeur, commentaire
+* formulations\_utilisateur : « Comment ajouter une facture dans un classeur ? » ; « Comment déposer plusieurs documents en une fois ? » ; « Je n'arrive pas à déposer mon fichier ZIP » ; « Mon PDF de plusieurs factures a été découpé » ; « Le document tourne en chargement après le dépôt »
+* sources : Refonte de la page GitBook ingeneo-pre-compta/gestion-des-documents/depot-manuel-de-document ; données de la démo Arcade « Déposer un document » (mise à jour 2026-07-24) ; FAQ GitBook (section Gestion des Documents) ; page « Détail des droits » ; réponses de l'expert 2026-10-15
+* redacteur : AS
+* relecteur :
+* derniere\_verification : 2026-10-15
+* statut : brouillon
 
-**Vous voulez traiter plusieurs documents d'un coup ?**
-
-Utilisez la sélection multiple lors de l'import ou configurez un canal de collecte pour les flux réguliers.
-
-***
-
-### <sup>**Avertissement**</sup>
-
-{% hint style="warning" %}
-**Limitation technique** : Le traitement OCR peut prendre plusieurs minutes selon la complexité et le nombre de documents.
-{% endhint %}
+</details>

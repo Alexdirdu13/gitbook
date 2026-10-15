@@ -16,7 +16,7 @@
     * [Choisir le classeur d'une maille d'adressage](ingeneo-pre-compta/gestion-des-entreprises/choisir-le-classeur-dune-maille-dadressage.md)
     * [Codes motifs des statuts de la réforme](ingeneo-pre-compta/gestion-des-entreprises/codes-motifs-des-statuts-de-la-reforme.md)
   * [Gestion des documents](ingeneo-pre-compta/gestion-des-documents/README.md)
-    * [Dépôt manuel de document](ingeneo-pre-compta/gestion-des-documents/depot-manuel-de-document.md)
+    * [Comment déposer manuellement des documents dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/depot-manuel-de-document.md "Déposer manuellement des documents")
     * [La saisie comptable](ingeneo-pre-compta/gestion-des-documents/la-saisie-comptable.md)
     * [Rechercher un document](ingeneo-pre-compta/gestion-des-documents/rechercher-un-document.md)
     * [Modifier un document](ingeneo-pre-compta/gestion-des-documents/modifier-un-document.md)
