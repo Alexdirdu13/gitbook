@@ -86,7 +86,7 @@ Après un clic sur `Enregistrer`, le message `Mise à jour effectuée` s'affiche
 
 * id : proc-afficher-masquer-contenu-promotionnel-plans-entreprise-ingeneo-entreprise
 * titre : Comment afficher ou masquer le contenu promotionnel des plans entreprise dans INGENEO ENTREPRISE ?
-* titre\_menu : Afficher/Masquer le contenu promotionnel des plans entreprise pour vos clients
+* titre\_menu : Afficher ou masquer le contenu promotionnel
 * type : procedure
 * module : Paramètres du partenaire > Personnalisation
 * version\_outil : toutes
