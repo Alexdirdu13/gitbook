@@ -105,6 +105,7 @@
     * [Lancer la synchronisation des données avec Ingeneo](portail-de-services/cote-cabinet/lancer-la-synchronisation-des-donnees-avec-ingeneo.md "Lancer la synchronisation des données")
     * [Les vidéos](portail-de-services/cote-cabinet/les-videos/README.md)
       * [Définir un administrateur client](portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md)
+    * [Comment afficher ou masquer le contenu promotionnel des plans entreprise dans INGENEO ENTREPRISE ?](portail-de-services/cote-cabinet/afficher-masquer-contenu-promotionnel-plans-entreprise.md)
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
     * [Accueil et Gestion des factures](portail-de-services/cote-entreprise/accueil-et-gestion-des-factures/README.md)
       * [Comprendre votre espace entreprise](portail-de-services/cote-entreprise/accueil-et-gestion-des-factures/comprendre-votre-espace-entreprise.md)
