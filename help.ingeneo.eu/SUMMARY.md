@@ -15,6 +15,7 @@
     * [Comment configurer les statuts de la réforme ?](ingeneo-pre-compta/gestion-des-entreprises/comment-configurer-les-statuts-de-la-reforme.md "Configurer les statuts de la réforme")
     * [Choisir le classeur d'une maille d'adressage](ingeneo-pre-compta/gestion-des-entreprises/choisir-le-classeur-dune-maille-dadressage.md)
     * [Codes motifs des statuts de la réforme](ingeneo-pre-compta/gestion-des-entreprises/codes-motifs-des-statuts-de-la-reforme.md)
+    * [Comment connecter une entreprise à un logiciel comptable tiers dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/connecter-un-logiciel-comptable-tiers.md "Connecter un logiciel comptable tiers")
   * [Gestion des documents](ingeneo-pre-compta/gestion-des-documents/README.md)
     * [Comment déposer manuellement des documents dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/depot-manuel-de-document.md "Déposer manuellement des documents")
     * [Comment faire la pré-saisie comptable d'un document dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/la-saisie-comptable.md "Faire la pré-saisie comptable")
