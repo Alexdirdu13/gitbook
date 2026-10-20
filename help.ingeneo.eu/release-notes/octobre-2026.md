@@ -1,11 +1,24 @@
 ---
 description: >-
-  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.12.0,
-  2.11.0, 2.10.4, 2.9.10.
+  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.13.0,
+  2.12.0, 2.11.0, 2.10.4, 2.9.10.
 icon: calendar
 ---
 
 # Octobre - 2026
+
+## Version 2.13.0 – 2026-10-19
+
+### <i class="fa-sparkles">:sparkles:</i>Nouveautés
+
+* **Ajout de la connexion banque depuis INGENEO ENTREPRISE** (Réf. 7140) : dans INGENEO PRECOMPTA, dans `Référentiels comptables > Banque`, vous pouvez rattacher une banque directement depuis INGENEO ENTREPRISE.
+* **Indicateur sur l'onglet `Notes`** (Réf. 7550) : dans INGENEO PRECOMPTA, dans le panneau latéral du menu `Bannettes`, un indicateur apparaît à droite de l'onglet `Notes` dès qu'il contient des notes. Cet indicateur signale qu'un document comporte des informations supplémentaires.
+* **Informations complètes dans les emails de demande d'enrôlement PA** (Réf. 7670) : dans INGENEO PRECOMPTA, l'email de notification d'une demande d'enrôlement à la Plateforme Agréée (PA) contient le nom, le prénom et l'adresse email du demandeur.
+
+### <i class="fa-arrow-trend-up">:arrow-trend-up:</i>Améliorations
+
+* **Défilement correct des documents** (Réf. 6004) : dans INGENEO PRECOMPTA, dans la liste des documents à valider, le défilement vertical fonctionne dès le chargement. Vous accédez directement au document souhaité.
+* **Identification des doublons dans les mouvements bancaires** (Réf. 7548) : dans INGENEO PRECOMPTA, certains mouvements bancaires ne sont plus récupérés en double. La correction s'applique aux nouvelles récupérations : les doublons importés avant la version 2.13.0 ne sont pas supprimés automatiquement.
 
 ## Version 2.12.0 – 2026-10-15
 
