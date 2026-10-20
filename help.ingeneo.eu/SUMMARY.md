@@ -43,7 +43,7 @@
       * [Dépôt EBICS](ingeneo-pre-compta/banque/configuration-ebics/depot-ebics.md)
       * [Paramétrage EBICS](ingeneo-pre-compta/banque/configuration-ebics/parametrage-ebics.md)
     * [Connecteurs tiers](ingeneo-pre-compta/banque/connecteurs-tiers/README.md)
-      * [Paramétrage POWENS](ingeneo-pre-compta/banque/connecteurs-tiers/parametrage-powens.md)
+      * [Comment connecter un compte bancaire avec Powens dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/banque/connecteurs-tiers/parametrage-powens.md "Connecter un compte bancaire avec Powens")
       * [Paramétrage JeDéclare](ingeneo-pre-compta/banque/connecteurs-tiers/parametrage-jedeclare.md)
     * [Saisie banque](ingeneo-pre-compta/banque/saisie-banque/README.md)
       * [Saisie de banque](ingeneo-pre-compta/banque/saisie-banque/saisie-de-banque.md)
