@@ -108,6 +108,7 @@
       * [Définir un administrateur client](portail-de-services/cote-cabinet/les-videos/definir-un-administrateur-client.md)
     * [Comment afficher ou masquer le contenu promotionnel des plans entreprise dans INGENEO ENTREPRISE ?](portail-de-services/cote-cabinet/afficher-masquer-contenu-promotionnel-plans-entreprise.md)
     * [Comment mettre une date de fin à une maille d'adressage dans INGENEO ENTREPRISE ?](portail-de-services/cote-cabinet/comment-mettre-une-date-de-fin-a-une-maille-dadressage-dans-ingeneo-entreprise.md "Date de fin d'une maille d'adressage")
+    * [Comment choisir le classeur d'une maille d'adressage dans INGENEO ENTREPRISE ?](portail-de-services/cote-cabinet/comment-choisir-le-classeur-dune-maille-dadressage-dans-ingeneo-entreprise.md "Classeur d'une maille d'adressage")
   * [Côté Entreprise](portail-de-services/cote-entreprise/README.md)
     * [Accueil et Gestion des factures](portail-de-services/cote-entreprise/accueil-et-gestion-des-factures/README.md)
       * [Comprendre votre espace entreprise](portail-de-services/cote-entreprise/accueil-et-gestion-des-factures/comprendre-votre-espace-entreprise.md)
