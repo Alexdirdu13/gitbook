@@ -4,6 +4,7 @@
 * [Ingeneo Pre-Compta](ingeneo-pre-compta/README.md)
   * [Gestion des entreprises](ingeneo-pre-compta/gestion-des-entreprises/README.md)
     * [Comment créer une entreprise dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise.md "Créer une entreprise")
+    * [Comment créer une entreprise depuis un modèle dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise-depuis-un-modele.md "Créer une entreprise depuis un modèle")
     * [Comment créer plusieurs entreprises en une fois par import dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/creer-une-entreprise-1.md "Créer des entreprises par import")
     * [Comment modifier les informations générales d'une entreprise](ingeneo-pre-compta/gestion-des-entreprises/parametrages-generaux.md "Modifier les informations générales")
     * [Comment faire le paramétrage général de la comptabilité d'une entreprise dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-entreprises/parametrage-comptabilite.md "Paramétrage général de la comptabilité")
