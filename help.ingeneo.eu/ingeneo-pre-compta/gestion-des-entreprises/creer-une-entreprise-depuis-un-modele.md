@@ -15,8 +15,6 @@ Dans INGENEO PRECOMPTA, un modèle d'entreprise permet de créer une entreprise 
 
 Chaque interrupteur `Importer …` de l'étape `Initialisation` importe uniquement les éléments de l'onglet du modèle qui porte le même nom. Après la création, l'entreprise n'est plus liée au modèle : une modification ultérieure du modèle ne change pas l'entreprise.
 
-Les utilisateurs d'INGENEO PRECOMPTA appellent souvent une entreprise un « dossier ».
-
 ## Prérequis
 
 * Droit : l'utilisateur d'INGENEO PRECOMPTA doit avoir le droit [`Autoriser la création d'entreprise`](../administration/detail-des-droits.md). Aucun autre droit n'est nécessaire pour utiliser un modèle d'entreprise. Par défaut, les profils `Collaborateur de site` et `Gestionnaire de site` ont ce droit.
@@ -59,8 +57,6 @@ Dans le panneau `Créer une entreprise` d'INGENEO PRECOMPTA, la liste `Sélectio
 9. Si vous ne voulez pas importer la comptabilité du modèle, désactivez `Importer la comptabilité`.
 
 ### Importer un fichier FEC (facultatif)
-
-Dans le panneau `Créer une entreprise` d'INGENEO PRECOMPTA, avec un modèle sélectionné, le bloc `INITIALISATION DES DONNÉES` s'affiche seulement si `Importer les référentiels comptables` est activé.
 
 1. Dans le bloc `INITIALISATION DES DONNÉES`, zone `Importer un fichier FEC`, cliquez sur `Parcourir...`.
 2. Sélectionnez le fichier FEC au format `.txt`.
