@@ -1,11 +1,27 @@
 ---
 description: >-
-  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.13.0,
-  2.12.0, 2.11.0, 2.10.4, 2.9.10.
+  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.14.3,
+  2.13.0, 2.12.0, 2.11.0, 2.10.4, 2.9.10.
 icon: calendar
 ---
 
 # Octobre - 2026
+
+## Version 2.14.3 – 2026-10-23
+
+### <i class="fa-sparkles">:sparkles:</i>Nouveautés
+
+* **Affichage des prochains valideurs** (Réf. 7671) : dans INGENEO PRECOMPTA, dans le menu recherche, `Documents engagés dans un circuit de validation`, l'infobulle indique les prénoms et noms des prochains valideurs du document.
+
+### <i class="fa-arrow-trend-up">:arrow-trend-up:</i>Améliorations
+
+* **Disparition des notes de frais** (Réf. 6637) : dans INGENEO PRECOMPTA, certaines notes de frais ne disparaissent plus. Le correctif s'applique aux notes de frais créées à partir de la version 2.14.3 : les notes déjà disparues ne sont pas restaurées automatiquement.
+* **Envoi par mail depuis `Extraire`** (Réf. 7643) : dans INGENEO PRECOMPTA, dans la recherche des documents, vous pouvez envoyer les documents par mail depuis le clic droit > `Extraire`.
+* **Saisie de date minimum pour enrôlements systématiquement à J+1** (Réf. 7659) : dans INGENEO PRECOMPTA, dans le formulaire d'enrôlement unitaire, la date minimale saisie ne peut plus être antérieure à J+1. Cette restriction assure la cohérence des dates lors de la création des enrôlements.
+* **Suppression des documents des classeurs `Autres documents`** (Réf. 7691) : dans INGENEO PRECOMPTA, dans la recherche, les documents supprimés des classeurs `Autres documents` ne s'affichent plus.
+* **Déplacement des documents avec une sélection multiple depuis les classeurs `Autres documents`** (Réf. 7693) : dans INGENEO PRECOMPTA, dans l'onglet `Autres documents`, le clic droit sur une sélection multiple permet de déplacer les documents.
+* **Apparition de lignes à 0 € dans la saisie des notes de frais** (Réf. 7739) : dans INGENEO PRECOMPTA, dans l'écran `Comptabilisation` des notes de frais, les lignes supplémentaires à 0 € ne s'affichent plus.
+* **Découpage de fichier** (Réf. 7745) : dans INGENEO PRECOMPTA, dans la fonction `Découpage de fichier`, tous les documents sélectionnés sont traités. Le total n'est pas affecté et l'intégrité des données est préservée.
 
 ## Version 2.13.0 – 2026-10-19
 
