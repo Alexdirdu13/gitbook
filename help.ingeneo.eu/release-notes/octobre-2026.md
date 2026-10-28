@@ -1,11 +1,27 @@
 ---
 description: >-
-  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.14.3,
-  2.13.0, 2.12.0, 2.11.0, 2.10.4, 2.9.10.
+  Release notes d'INGENEO PRECOMPTA du mois d'octobre 2026 : versions 2.15.3,
+  2.14.3, 2.13.0, 2.12.0, 2.11.0, 2.10.4, 2.9.10.
 icon: calendar
 ---
 
 # Octobre - 2026
+
+## Version 2.15.3 – 2026-10-27
+
+### <i class="fa-sparkles">:sparkles:</i>Nouveautés
+
+* **\[API NeoV2] Endpoint pour créer et paramétrer les classeurs comptables en masse** (Réf. 6131) : dans INGENEO PRECOMPTA, l'API NeoV2 permet de créer des classeurs comptables en masse pour plusieurs entreprises. Chaque classeur est rattaché à une entreprise et reprend les rubriques `Paramétrage général`, `Eléments comptables` et `Paramétrage avancé`. Le nom et le type sont obligatoires ; les autres options reprennent les valeurs d'un classeur du même type créé dans l'application. Si un axe ou une section analytique n'existe pas dans l'entreprise, un message indique de renseigner une valeur existante.
+* **Détails des documents dans l'onglet `Actions / Notifications`** (Réf. 7640) : dans INGENEO PRECOMPTA, dans l'onglet `Actions / Notifications`, la colonne `Titre` affiche la date de facture, le nom du tiers et le montant TTC sous chaque notification de document en attente de validation. Seules les informations renseignées s'affichent. Des infobulles précisent le rôle des boutons : voir le document en attente de validation et prise en compte de la notification.
+
+### <i class="fa-arrow-trend-up">:arrow-trend-up:</i>Améliorations
+
+* **Notification de reconnexion d'un connecteur marchand ou bancaire** (Réf. 1263) : dans INGENEO PRECOMPTA, dans `Actions / Notifications`, la notification d'un connecteur marchand ou bancaire à reconnecter ouvre l'écran `Canaux de collecte`. L'écran affiche la page d'authentification du connecteur, à l'étape `Connexion`. Après la reconnexion, le bouton `Retour` ramène à l'écran précédent.
+* **Sonde Top 10 des utilisateurs dans les tableaux de bord** (Réf. 2123) : dans INGENEO PRECOMPTA, dans les tableaux de bord, la sonde `Top 10 des utilisateurs` classe les utilisateurs selon le nombre de documents qu'ils ont enregistrés. Ajoutée au tableau de bord de la plateforme, d'un site ou d'une entreprise, elle porte sur les dossiers de ce périmètre. La sonde accepte un filtre par période et applique les filtres globaux du tableau de bord ; l'export Excel reprend les filtres appliqués.
+* **Impression directe depuis le visualisateur de documents** (Réf. 6360) : dans INGENEO PRECOMPTA, dans l'onglet `Aperçu` du visualisateur de documents, l'icône d'imprimante de la barre d'outils ouvre directement la fenêtre de paramètres d'impression. L'impression ne passe plus par un second onglet du navigateur.
+* **Facture en état incohérent : affichée dans le menu `Bannettes` mais non proposée au rattachement** (Réf. 6398) : dans INGENEO PRECOMPTA, dans l'écran `Rapprochement bancaire`, les factures d'un dossier en comptabilité de trésorerie sont proposées au rattachement à un mouvement bancaire. Ouvrez un mouvement, puis recherchez la facture dans l'onglet `Toutes les factures` de la zone `Rechercher une facture pour rattachement`.
+* **Conservation des comptes saisis dans le classeur comptable `Banque`** (Réf. 7432) : dans INGENEO PRECOMPTA, dans le classeur comptable `Banque`, les comptes renseignés à l'avance sur les mouvements bancaires sont conservés lors de l'enregistrement ligne par ligne. Après l'enregistrement d'un mouvement, les comptes de charge ou de produit déjà saisis sur les lignes suivantes restent affichés.
+* **Mise en corbeille des mouvements depuis le menu `Bannettes`** (Réf. 7561) : dans INGENEO PRECOMPTA, dans le menu `Bannettes`, onglet `Comptabilité`, la suppression de mouvements bancaires d'un classeur bancaire les place dans la corbeille. Le message `Documents mis à la corbeille avec succès.` s'affiche. Les mouvements de 2025 déjà enregistrés sont aussi déplacés dans la corbeille.
 
 ## Version 2.14.3 – 2026-10-23
 
