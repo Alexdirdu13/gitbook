@@ -54,7 +54,7 @@
   * [Processus métiers](ingeneo-pre-compta/processus-metiers/README.md)
     * [Workflow](ingeneo-pre-compta/processus-metiers/workflow/README.md)
       * [Configurer les statuts de documents](ingeneo-pre-compta/processus-metiers/workflow/configurer-les-statuts-de-documents.md)
-      * [Circuit de validation](ingeneo-pre-compta/processus-metiers/workflow/circuit-de-validation.md)
+      * [Comment créer un circuit de validation dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/processus-metiers/workflow/circuit-de-validation.md "Créer un circuit de validation")
       * [Consulter et gérer les notifications](ingeneo-pre-compta/processus-metiers/workflow/consulter-et-gerer-les-notifications.md)
     * [Notes de frais](ingeneo-pre-compta/processus-metiers/notes-de-frais/README.md)
       * [Paramétrage note de frais](ingeneo-pre-compta/processus-metiers/notes-de-frais/parametrage-note-de-frais.md)

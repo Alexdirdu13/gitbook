@@ -1,4 +1,8 @@
 ---
+description: >-
+  Créer un circuit de validation prédéfini dans INGENEO PRECOMPTA : classeurs,
+  statuts, niveaux, rôles et options par étape. Droit requis : paramétrage des
+  processus métier.
 layout:
   width: default
   title:
@@ -23,82 +27,117 @@ tags:
   - ingeneo
 ---
 
-# Circuit de validation
+# Comment créer un circuit de validation dans INGENEO PRECOMPTA ?
 
-### <sup>**Prérequis et Permissions**</sup>
+**Résumé :** Cette procédure permet de créer un circuit de validation de type `Prédéfini` pour les documents d'un ou plusieurs classeurs dans INGENEO PRECOMPTA. Elle nécessite le droit `Autoriser l’accès au paramétrage des processus métier`.
 
-{% hint style="success" %}
-Un utilisateur ayant le droit [**Autoriser l’accès au paramétrage des processus métier**](../../administration/detail-des-droits.md) peut configurer les circuits de validation. L'utilisation nécessite des rôles spécifiques selon le niveau de validation.
-{% endhint %}
+## Objectif
 
-***
+Dans INGENEO PRECOMPTA, un circuit de validation fait valider un document par des utilisateurs, niveau par niveau, avant sa comptabilisation. Il trace le parcours de validation du document.
 
-### <sup>**Contexte et Recommandations**</sup>
+INGENEO PRECOMPTA propose deux types de circuits de validation :
 
-Le circuit de validation permet d'automatiser les demandes de validation pour des documents déposés dans des classeurs comptables ou de plan de classement.
+* `Prédéfini` : circuit associé à des classeurs comptables ou à des classeurs du plan de classement. Cette procédure crée ce type de circuit.
+* `Formulaire` : circuit associé à un formulaire des processus métier. Son paramétrage est décrit dans [Paramétrage note de frais](../notes-de-frais/) et [Paramétrage engagement de dépense](../engagement-de-depense/).
 
-### <sup>**Types de circuits de validation**</sup>
+Un document entre dans un circuit de validation `Prédéfini` de deux façons :
 
-* **Prédéfini** : s'appliquent aux classeurs comptables ou de plan de classement
-* **Formulaire** : spécifiques aux processus métier [note de frais](../notes-de-frais/) ou [engagement de dépense](../engagement-de-depense/), retrouvez les paramétrages dans les pages dédiées
+* manuellement : dans l'écran de pré-saisie comptable du menu `Bannettes`, l'utilisateur choisit le circuit dans le champ `Circuit de validation`, puis clique sur `Enregistrer` ;
+* automatiquement : si le circuit a l'option `Mémoriser le circuit de validation pour les comptes tiers`, il s'applique aux prochains documents du même compte tiers.
 
-Il est possible d’appliquer automatiquement des [statuts](configurer-les-statuts-de-documents.md) pendant les circuits de validation. Retrouvez les paramétrages dans la page dédiée.
+## Prérequis
 
-***
+* Droit : dans INGENEO PRECOMPTA, la création d'un circuit de validation nécessite seulement le droit `Autoriser l’accès au paramétrage des processus métier`. Le détail des droits est dans [Détail des droits](../../administration/detail-des-droits.md).
+* Statuts : pour appliquer des statuts pendant le circuit, créez d'abord les listes de statuts dans `Entreprises > Editer > Plan de classement > Processus métier > Statuts`. Voir [Configurer les statuts de documents](configurer-les-statuts-de-documents.md).
+* Rôles du circuit : chaque utilisateur d'une étape reçoit un rôle. Les 5 rôles d'un circuit de validation dans INGENEO PRECOMPTA sont :
+  * `Initiateur` : toujours au niveau 1. Il lance le circuit de validation, sans être obligé de faire la pré-saisie comptable. Le niveau 1 peut compter plusieurs initiateurs.
+  * `Valideur` : il valide le document. Si plusieurs valideurs sont au même niveau, la première validation fait passer le document au niveau suivant. Si des valideurs ont l'interrupteur `Obliger`, le document ne passe au niveau suivant qu'après l'action de tous ces valideurs.
+  * `Aiguilleur` : il choisit le valideur du niveau suivant. Le niveau suivant doit compter au moins deux valideurs. Sinon, le circuit est incomplet et aucun message d'erreur ne s'affiche.
+  * `Observateur` : il suit l'avancement du document à tous les niveaux, sans pouvoir agir.
+  * `Gestionnaire` : il suit l'avancement du document à tous les niveaux et peut faire toutes les actions à tous les niveaux.
+* Le niveau `0` est réservé aux rôles `Observateur` et `Gestionnaire`.
 
-**Quand l'utiliser :**
+## Étapes
 
-* Pour digitaliser la validation de documents
-* Quand plusieurs niveaux d'approbation sont nécessaires
-* Pour tracer le parcours de validation des documents
+1. Dans INGENEO PRECOMPTA, cliquez sur `Entreprises` dans le menu de gauche.
+2. Sur la ligne de l'entreprise, cliquez sur `Editer`.
+3. Cliquez sur l'onglet `Plan de classement`.
+4. Cliquez sur `Processus métier`.
+5. Cliquez sur `Circuits de validation`.
+6. Cliquez sur `+ Ajouter`. Le panneau `Créer un circuit de validation` s'ouvre.
+7. Dans `Type de circuit`, sélectionnez `Prédéfini`.
+8. Cliquez sur `Enregistrer`. Le panneau `Edition d'un circuit` s'ouvre.
+9. Dans le bloc `CONFIGURATION`, saisissez le nom dans `Nom du circuit de validation`.
+10. Pour exporter le document vers le logiciel comptable après la validation finale, activez `Transférer en comptabilité lors de la validation finale`.
+11. Pour appliquer automatiquement ce circuit aux prochains documents du même compte tiers, activez `Mémoriser le circuit de validation pour les comptes tiers`.
+12. Dans `Classeurs`, sélectionnez un ou plusieurs classeurs.
+13. Pour appliquer des statuts pendant le circuit, sélectionnez une ou plusieurs listes dans `Listes de statuts applicables`.
+14. Dans le bloc `ETAPES`, sur la première ligne, saisissez `1` dans `Niveau`.
+15. Sur la même ligne, sélectionnez l'utilisateur dans `Utilisateur(s)`.
+16. Sur la même ligne, sélectionnez `Initiateur` dans `Rôle`.
+17. Pour ajouter une ligne, cliquez sur le bouton `+` en haut à droite du bloc `ETAPES`.
+18. Sur la nouvelle ligne, saisissez le niveau dans `Niveau`.
+19. Sur la nouvelle ligne, sélectionnez l'utilisateur dans `Utilisateur(s)`.
+20. Sur la nouvelle ligne, sélectionnez le rôle dans `Rôle`.
+21. Si l'utilisateur doit agir pour que le document passe au niveau suivant, activez `Obliger` sur sa ligne.
+22. Si l'utilisateur peut refuser le document, activez `Refuser` sur sa ligne.
+23. Si `Refuser` est activé, choisissez l'effet du refus dans `Refuser et` : `Renvoyer à l'étape précédente`, `Arrêter le circuit de validation` ou `Envoyer à l'étape suivante`.
+24. Si l'utilisateur peut modifier le document, activez `Modifier Info`.
+25. Pour exporter le document vers le logiciel comptable à cette étape, activez `Export Compta`.
+26. Pour régler les options de l'utilisateur, cliquez sur le bouton de la colonne `Autres`.
+27. Activez les options voulues :
+    * `Changer le circuit de validation` : autoriser la sélection d'un autre circuit dans le même classeur ;
+    * `Changer le classeur` : autoriser la sélection d'un autre circuit dans un classeur différent de même type ;
+    * `Activer la validation par mail` : avec cette option, l'utilisateur ne peut pas saisir de commentaire ;
+    * `Obliger la saisie analytique` ;
+    * `Obliger la saisie d’une note` ;
+    * `Obliger l’ajout d’une pièce jointe` ;
+    * `Appliquer la signature` ;
+    * `Appliquer le tampon` ;
+    * `Appliquer le statut après validation` ;
+    * `Appliquer le statut après refus`.
+28. Répétez les étapes 17 à 27 pour chaque utilisateur du circuit.
+29. Cliquez sur `Enregistrer`.
 
-**Fonctionnalités disponibles :**
+## Résultat attendu
 
-* Création de plusieurs niveaux avec différents rôles
-* Circuit obligatoire par classeur ou plan de classement
+Dans INGENEO PRECOMPTA, le circuit apparaît dans la liste `Circuits de validation` de `Entreprises > Editer > Plan de classement > Processus métier`. Les colonnes sont `Type`, `Nom du circuit`, `Créé par`, `Date de création` et `Actions`.
 
-***
+Dans l'écran de pré-saisie comptable du menu `Bannettes`, le circuit est proposé dans le champ `Circuit de validation` pour les documents des classeurs associés. Le bouton de la colonne `Autres` affiche le nombre d'options activées pour l'utilisateur.
 
-### Vidéo interactive 💡
+## Erreurs fréquentes
 
-{% @arcade/embed url="https://app.arcade.software/share/ROLF2KrulWbatkcmMctl" flowId="ROLF2KrulWbatkcmMctl" %}
+**L'`Aiguilleur` ne peut pas choisir de valideur.** Dans un circuit de validation d'INGENEO PRECOMPTA, le niveau qui suit un `Aiguilleur` doit compter au moins deux valideurs. L'application ne contrôle pas cette règle à l'enregistrement et n'affiche aucun message. Ajoutez au moins deux `Valideur` au niveau suivant.
 
-***
+**Le circuit n'est pas proposé dans le champ `Circuit de validation`.** Dans INGENEO PRECOMPTA, le champ `Circuit de validation` de l'écran de pré-saisie comptable ne propose que les circuits associés au classeur du document. Vérifiez le champ `Classeurs` du circuit.
 
-### <sup>**Créer un circuit de validation**</sup>
+**Le document ne peut pas être enregistré sans circuit.** Dans INGENEO PRECOMPTA, le classeur a l'option `Choix d’un circuit de validation obligatoire pour tous les documents` (classeur comptable > `Paramétrage avancé` > `VIGILANCE`). Chaque document de ce classeur doit passer par un circuit de validation.
 
-1. Sélectionnez **Circuit de validation** depuis le menu **Processus métier**.
-2. Cliquez sur **+ Ajouter** pour créer un nouveau circuit.
-3. Nommez le circuit et définissez les niveaux de validation souhaités.
-4. Pour chaque niveau, ajoutez les utilisateurs concernés et attribuez-leur un rôle (Initiateur, Valideur, Aiguilleur, Observateur, Gestionnaire).
-5. Définissez les conditions et options spécifiques si besoin.
-6. Cliquez sur **Enregistrer** pour valider la création du circuit.
+**Un circuit en cours d'utilisation a été supprimé.** Dans INGENEO PRECOMPTA, les documents en attente de validation dans ce circuit restent visibles dans le menu `Rechercher`.
 
-***
+## Fiches liées
 
-{% hint style="warning" %}
-## Rôles disponibles
+* [Configurer les statuts de documents](configurer-les-statuts-de-documents.md) : listes de statuts utilisées par `Listes de statuts applicables`.
+* [Valider un document](../../gestion-des-documents/valider-un-document.md) : validation ou refus d'un document engagé dans un circuit.
+* [Détail des droits](../../administration/detail-des-droits.md) : droit `Autoriser l’accès au paramétrage des processus métier`.
 
-* **Initiateur** : Toujours au niveau 1, il initie le circuit de validation mais n’est pas obligé de faire de la saisie comptable pour initier le circuit de validation. Possibilité de définir plusieurs initiateurs au niveau 1.
-* **Valideur** : Il valide avec ou sans condition. Si plusieurs valideurs sont au même niveau, le premier qui valide permettra au document de passer à l’étape suivante. Dans le cas de plusieurs valideurs dont un ou plusieurs sont obligés de valider, le document ne passera à l’étape suivante que lorsque tous les valideurs avec obligation auront effectué leur action.
-* **Aiguilleur** : Il détermine qui au prochain niveau validera le document. Il faut au moins un niveau supérieur dans ce cas avec au moins deux valideurs.
-* **Observateur** : Il peut suivre l'avancement du document à tous les niveaux, mais ne peut agir sur celui-ci.
-* **Gestionnaire** : Il peut suivre l'avancement du document à tous les niveaux et il peut agir sur celui-ci de toutes les actions souhaitées et à tous les niveaux.
-{% endhint %}
+<details>
 
-***
+<summary>Métadonnées de la fiche</summary>
 
-### <sup>**Options supplémentaires par utilisateur disponible**</sup>
+* id : proc-creer-circuit-validation-ingeneo-precompta
+* titre : Comment créer un circuit de validation dans INGENEO PRECOMPTA ?
+* titre\_menu : Créer un circuit de validation
+* type : procedure
+* module : Processus métier
+* version\_outil : 2.15.3 (version observée)
+* roles\_concernes : utilisateur avec le droit `Autoriser l’accès au paramétrage des processus métier`
+* tags : circuit de validation, workflow, valideur, initiateur, aiguilleur, statuts
+* formulations\_utilisateur : « Comment mettre en place une validation des factures ? » ; « Comment ajouter un valideur ? » ; « À quoi sert l'aiguilleur ? » ; « Comment rendre une validation obligatoire ? » ; « Comment appliquer un circuit automatiquement à un fournisseur ? »
+* sources : Refonte de la page GitBook ingeneo-pre-compta/processus-metiers/workflow/circuit-de-validation ; démo Arcade « Circuit de validation » ; observation de l'application INGENEO PRECOMPTA 2.15.3 (2026-10-30) ; réponses de l'expert 2026-10-30
+* redacteur : CG
+* relecteur :
+* derniere\_verification : 2026-10-30
+* statut : brouillon
 
-* Changer le circuit de validation
-* Changer le classeur
-* Activer la validation par mail (impossibilité de renseigner un commentaire)
-* Obliger la saisie analytique
-* Obliger la saisie d’une note
-* Obliger l’ajout d’une pièce jointe
-* Appliquer la signature
-* Appliquer le tampon
-
-{% hint style="danger" %}
-La suppression d'un circuit en cours d'utilisation peut entraîner la perte de documents en attente de validation
-{% endhint %}
+</details>
