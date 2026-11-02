@@ -2,11 +2,31 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: help.ingeneo.eu
   structure:
-    - type: space
-      key: space-1
-      title: help ingeneo
+    - type: section
+      key: section-1
+      title: help.ingeneo.eu
       path: help.ingeneo.eu
       default: true
-      content:
-        directory: ./help.ingeneo.eu
-        language: fr
+      children:
+        - type: space
+          key: space-1
+          title: help ingeneo
+          path: help.ingeneo.eu
+          default: true
+          content:
+            directory: ./help.ingeneo.eu
+            language: fr
+    - type: section
+      key: section-2
+      title: Ingeneo Compta
+      path: ingeneo-compta
+      icon: calculator
+      children:
+        - type: space
+          key: space-2
+          title: Ingeneo Compta
+          path: ingeneo-compta
+          default: true
+          draft: true
+          content:
+            directory: ./ingeneo-compta
