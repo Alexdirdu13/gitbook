@@ -3,6 +3,20 @@ site:
   title: help.ingeneo.eu
   structure:
     - type: section
+      key: section-3
+      title: Ingeneo Entreprise
+      path: ingeneo-entreprise
+      icon: building
+      children:
+        - type: space
+          key: space-3
+          title: Ingeneo Entreprise
+          path: ingeneo-entreprise
+          default: true
+          draft: true
+          content:
+            directory: ./ingeneo-entreprise
+    - type: section
       key: section-1
       title: Ingeneo Pre-compta
       path: help.ingeneo.eu
@@ -32,17 +46,3 @@ site:
           draft: true
           content:
             directory: ./ingeneo-compta
-    - type: section
-      key: section-3
-      title: Ingeneo Entreprise
-      path: ingeneo-entreprise
-      icon: building
-      children:
-        - type: space
-          key: space-3
-          title: Ingeneo Entreprise
-          path: ingeneo-entreprise
-          default: true
-          draft: true
-          content:
-            directory: ./ingeneo-entreprise
