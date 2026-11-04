@@ -53,7 +53,7 @@
     * [Application mobile](ingeneo-pre-compta/application-mobile/application-mobile.md)
   * [Processus métiers](ingeneo-pre-compta/processus-metiers/README.md)
     * [Workflow](ingeneo-pre-compta/processus-metiers/workflow/README.md)
-      * [Configurer les statuts de documents](ingeneo-pre-compta/processus-metiers/workflow/configurer-les-statuts-de-documents.md)
+      * [Comment configurer les statuts de documents dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/processus-metiers/workflow/configurer-les-statuts-de-documents.md "Configurer les statuts de documents")
       * [Comment créer un circuit de validation dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/processus-metiers/workflow/circuit-de-validation.md "Créer un circuit de validation")
       * [Consulter et gérer les notifications](ingeneo-pre-compta/processus-metiers/workflow/consulter-et-gerer-les-notifications.md)
     * [Notes de frais](ingeneo-pre-compta/processus-metiers/notes-de-frais/README.md)
