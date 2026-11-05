@@ -50,6 +50,7 @@ site:
       key: section-4
       title: Développeurs
       path: developpeurs
+      description: ""
       icon: code
       children:
         - type: space
