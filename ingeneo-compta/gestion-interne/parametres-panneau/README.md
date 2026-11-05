@@ -1,0 +1,13 @@
+# Paramètres (panneau)
+
+* [Annualisations](annualisations.md)
+* [Clients](clients.md)
+* [Collaborateurs](collaborateurs.md)
+* [Familles de tâches](familles-de-taches.md)
+* [Groupes de travail](groupes-de-travail.md)
+* [Modèles de lettre de mission](modeles-de-lettre-de-mission.md)
+* [Modèles de mission](modeles-de-mission.md)
+* [Modèles de page](modeles-de-page.md)
+* [Postes](postes.md)
+* [Types d'absences](types-d-absences.md)
+* [Tâches](taches.md)

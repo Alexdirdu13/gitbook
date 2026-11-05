@@ -1,0 +1,13 @@
+# Paramètres (panneau)
+
+* [Axes analytiques](axes-analytiques.md)
+* [Coefficients dégressifs](coefficients-degressifs.md)
+* [Comptes](comptes.md)
+* [Configuration](configuration.md)
+* [E-mails](e-mails.md)
+* [Familles d'immobilisations](familles-d-immobilisations.md)
+* [Journaux](journaux.md)
+* [Localisations](localisations.md)
+* [Multimodules](multimodules.md)
+* [Plan comptable](plan-comptable.md)
+* [Sections analytiques](sections-analytiques.md)

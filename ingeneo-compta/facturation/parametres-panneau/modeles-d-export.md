@@ -1,0 +1,103 @@
+# Modèles d'export
+
+{% hint style="info" %}
+**Où le trouver :** Panneau **Paramètres**
+{% endhint %}
+
+{% hint style="success" %}
+**En bref** — Cet écran gère les modèles d'import et d'export, dont ceux des écritures : il décrit la forme du fichier produit pour qu'il soit accepté par le logiciel qui le relira.
+
+* Pour créer un modèle : bouton \[Créer un modèle], décrivez le fichier, puis bouton \[Enregistrer].
+* Pour récupérer les modèles livrés par Ingeneo Compta : bouton \[Charger les nouveaux modèles].
+{% endhint %}
+
+Cette option permet de gérer les modèles d'import et d'export, dont les modèles d'export des écritures : ceux qui sont livrés par Ingeneo Compta, et ceux que vous créez vous-même. Un modèle décrit la forme du fichier à produire — l'ordre des champs, leur position, les séparateurs et les formats — de façon à ce que le fichier généré soit accepté par le logiciel qui doit le relire.
+
+<figure><img src="../../.gitbook/assets/25-modeles-d-export.jpg" alt="Écran Modèles d&#x27;export"><figcaption><p>Écran « Modèles d'export » de la nouvelle interface</p></figcaption></figure>
+
+Cet écran se trouve dans le panneau « Paramètres » : rubrique « Modèles », puis l'onglet du haut « Imports et exports », entrée « Écritures ». Il est commun à plusieurs modules : il présente les modèles de tous les types de fichier du dossier (balances, brouillards d'écritures, comptes, écritures…), à l'import comme à l'export.
+
+L'écran présente la liste des modèles d'export du dossier, une ligne par modèle. Les colonnes affichées sont, dans l'ordre : **Libellé**, **Fichier**, **Description** et **Modifiable**. La colonne **Modifiable** indique si le modèle peut être repris : certains modèles livrés par Ingeneo Compta, compte tenu de leur complexité, ont fait l'objet d'un développement spécifique et ne sont pas modifiables. La liste est triée par défaut sur le libellé, par ordre croissant.
+
+Deux colonnes supplémentaires existent et ne sont pas affichées par défaut, **Modèle éditeur** et **Dernière modification** : vous pouvez les faire apparaître par le bouton \[Vue], rubrique « Colonnes affichées ». Elles restent proposées dans \[Filtres] même lorsqu'elles ne sont pas affichées.
+
+Au-dessus de la liste, la barre « Rechercher un modèle… » filtre à la saisie, et le bouton \[Filtres] permet de composer des critères sur les colonnes. Deux rangées de boutons restreignent la liste d'un clic : « Tous / Import / Export » pour le sens du modèle, et « Tous / Balance / Brouillard d'écritures / Comptes / Ecritures / Fichier des écritures comptables » pour le type de fichier. Les boutons \[Vue] et \[Exporter] complètent la barre d'outils.
+
+Un clic sur une ligne la sélectionne ; aucune case à cocher n'est affichée. Au survol d'une ligne, le menu « Autres actions » (trois points) propose « Modifier », « Dupliquer » et « Supprimer ». Sur un modèle dont la colonne **Modifiable** indique **Non**, ce menu ne propose que « Supprimer ». La duplication est le moyen le plus simple de partir d'un modèle existant pour en construire un nouveau.
+
+bouton **\[Créer un modèle]**
+
+Placé dans la barre du bas, à droite, il déploie vers le haut un menu de cinq types de fichier : « Balance », « Brouillard d'écritures », « Comptes », « Ecritures » et « Fichier des écritures comptables ». Choisissez dans ce menu le type de fichier du nouveau modèle.
+
+bouton **\[Charger les nouveaux modèles]**
+
+Placé à côté de \[Créer un modèle], il récupère dans votre dossier les modèles livrés par Ingeneo Compta qui n'y figurent pas encore.
+
+bouton **\[Exporter]**
+
+Situé dans la barre d'outils au-dessus de la liste, après \[Vue], il exporte le contenu de la liste des modèles, telle qu'elle est affichée.
+
+bouton **\[Supprimer]**
+
+Il apparaît dans le bandeau de sélection, au bas de l'écran (« 1 modèle sélectionnée », lien « Tout désélectionner »), qui remplace alors \[Créer un modèle] et \[Charger les nouveaux modèles]. Il supprime les modèles sélectionnés.
+
+La fiche d'un modèle comporte trois rubriques, dans cet ordre.
+
+## Rubrique « Informations générales »
+
+La rubrique regroupe le type de fichier, le libellé, la description et le type de séparation, puis les réglages du fichier.
+
+| Champ                                                              | Ce qu'il faut savoir                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type de fichier**                                                | Il décrit la nature des éléments exportés, et donc les champs que le fichier pourra contenir. Il se choisit à la création, par le menu de \[Créer un modèle].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Libellé**                                                        | C'est le libellé qui identifie le modèle dans la liste et dans les écrans qui vous demandent de choisir un modèle d'export.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Description**                                                    | Sur plusieurs lignes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Type de séparation**                                             | <p>Deux boutons côte à côte, « Caractères fixes » et « Séparateur de champs ». Les lignes du fichier exporté peuvent être construites de deux manières, selon ce qu'attend le logiciel destinataire :<br>• « Caractères fixes » : chaque champ occupe toujours la même position sur la ligne — par exemple la date du caractère 1 au caractère 10, le numéro de compte du 11 au 18, le libellé d'écriture du 19 au 53 — quelle que soit la longueur réelle du contenu, les caractères inutilisés étant remplacés par des espaces ;<br>• « Séparateur de champs » : les champs n'ont plus de longueur imposée, mais ils doivent tous être séparés par un caractère facilement identifiable.<br>C'est ce choix qui détermine ce que vous aurez à renseigner dans la rubrique « Données du modèle », et il fait apparaître ou disparaître les deux champs suivants.</p> |
+| **Séparateur**                                                     | Demandé uniquement lorsque le type de séparation est « Séparateur de champs ». Les caractères les plus courants sont proposés dans la liste ; si aucun ne convient, choisissez « Autre » : une zone de saisie apparaît à droite de la liste, sur la même ligne et sous le même libellé, où vous indiquez le caractère à employer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Caractère d'encadrement**                                        | Demandé uniquement lorsque le type de séparation est « Séparateur de champs ». Il permet, en plus du séparateur, d'encadrer le début et la fin de chaque champ, par des guillemets par exemple.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Format des dates (ex. jj/mm/aaaa)**                              | Choisissez dans la liste le format dans lequel les dates doivent être écrites dans le fichier.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Séparateur des décimales**                                       | Vous choisissez « Virgule », « Point » ou « Rien ».                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Nombre de décimales**                                            | Un seul caractère.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Ignorer les données vides**                                      | Interrupteur sans texte.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Afficher un en-tête**                                            | Interrupteur sans texte. Activé, le fichier généré comporte une première ligne d'en-tête reprenant, dans le même ordre, les libellés de tous les champs présents dans le fichier.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Supprimer les caractères '0' terminaux des comptes auxiliaires** | Interrupteur sans texte. Activé, les zéros ajoutés en fin de numéro de compte auxiliaire pour le compléter à la longueur retenue dans le dossier sont retirés dans le fichier généré — le compte EDF00000 y est écrit EDF.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+**Deux manipulations de cette rubrique effacent une saisie, sans aucun message**
+
+* si vous changez le **Type de séparation**, tous les numéros de colonne renseignés dans la rubrique « Données du modèle » sont vidés, et revenir au choix précédent ne les rétablit pas ;
+* si vous choisissez « Autre » comme **Séparateur**, la valeur enregistrée est effacée et la zone de saisie apparaît vide.
+
+Dans les deux cas, le modèle enregistré n'est pas touché tant que vous n'enregistrez pas : si vous avez seulement voulu regarder l'autre mode, quittez la fiche par le chevron « Retour ». Si vous enregistrez, la correspondance des champs du modèle est perdue et doit être ressaisie en entier.
+
+## Rubrique « Comptes auxiliaires et collectifs »
+
+<figure><img src="../../.gitbook/assets/25-cm385-11-comptes-auxiliaires-et-collectifs.png" alt="Modèles d&#x27;export, Rubrique « Comptes auxiliaires et collectifs »"><figcaption><p>Rubrique « Comptes auxiliaires et collectifs »</p></figcaption></figure>
+
+La rubrique rappelle que le logiciel gère les comptes auxiliaires dans un fichier distinct des comptes généraux, et que, dans une écriture concernant un tiers, il gère à la fois le numéro de compte général — le compte collectif — et le numéro de compte auxiliaire.
+
+**Les écritures exportées sont-elles gérées de la même manière ?** : interrupteur sans texte, que l'écran intitule « ComptesAuxiliairesSepares ». Désactivez-le si le fichier attendu par le logiciel destinataire ne distingue pas ces deux comptes.
+
+## Rubrique « Données du modèle »
+
+<figure><img src="../../.gitbook/assets/25-cm385-12-donnees-du-modele.png" alt="Modèles d&#x27;export, Rubrique « Données du modèle »"><figcaption><p>Rubrique « Données du modèle »</p></figcaption></figure>
+
+Cette rubrique est le tableau de correspondance entre les champs du logiciel et les champs du fichier : c'est elle qui finalise le modèle. Elle présente une ligne par champ exportable — le code et le libellé du journal, le numéro et la date de l'écriture, les numéros et intitulés de comptes, le libellé, le débit, le crédit, le lettrage, les quantités, le taux de TVA, et ainsi de suite — et cinq colonnes : **Champ Ingeneo Compta**, **Numéro de colonne**, **Pos. du 1er caractère**, **Taille du champ** et **Longueur maximale**.
+
+Les colonnes que vous renseignez dépendent du **Type de séparation** choisi dans la première rubrique :
+
+* avec « Séparateur de champs », vous indiquez pour chaque champ retenu son **Numéro de colonne**, c'est-à-dire son rang dans les lignes du fichier ; les deux autres colonnes ne sont pas saisissables ;
+* avec « Caractères fixes », vous indiquez la **Pos. du 1er caractère** et la **Taille du champ** ; la colonne du numéro de colonne n'est pas saisissable.
+
+La colonne **Longueur maximale** rappelle, pour chaque champ, la taille gérée par le logiciel ; elle n'est pas saisissable. Si vous indiquez une taille supérieure, le modèle ne peut pas être enregistré ; si le contenu du champ est plus long que la taille que vous avez indiquée, il est tronqué à cette taille.
+
+Un champ que vous ne renseignez pas n'est pas exporté : vous n'avez donc à renseigner que les champs attendus par le logiciel destinataire.
+
+La ligne **Référence des pièces jointes** porte une infobulle qui précise son effet : en renseignant ce champ, vous indiquez que votre export devra comprendre les pièces jointes aux écritures. C'est la seule ligne du tableau dont l'effet dépasse la forme du fichier.
+
+bouton **\[Enregistrer]**
+
+Enregistre le modèle.
+
+**Chevron « Retour »**
+
+Placé à gauche de la barre d'onglets du panneau, il revient à la liste sans enregistrer les modifications en cours (le bouton \[Retour] de la fiche est masqué).

@@ -1,0 +1,12 @@
+# Paramètres (panneau)
+
+* [Banques](banques.md)
+* [Codes TVA](codes-tva.md)
+* [Comptes auxiliaires](comptes-auxiliaires.md)
+* [Configuration](configuration.md)
+* [Connexion comptabilité](connexion-comptabilite.md)
+* [Journaux](journaux.md)
+* [Modes de règlement](modes-de-reglement.md)
+* [Modèles d'export](modeles-d-export.md)
+* [Multimodules](multimodules.md)
+* [Plan comptable](plan-comptable.md)

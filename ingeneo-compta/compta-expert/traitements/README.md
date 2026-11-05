@@ -1,0 +1,15 @@
+# Traitements
+
+* [Rapprochement bancaire](rapprochement-bancaire.md)
+* [Recherche](recherche.md)
+* [Lettrage automatique](lettrage-automatique.md)
+* [Budgets](budgets.md)
+* [Import de données](import-de-donnees.md)
+* [Saisie de caisse](saisie-de-caisse.md)
+* [Saisie de caisse — paramétrage](saisie-de-caisse-parametrage.md)
+* [Déclaration de TVA](declaration-de-tva.md)
+* [Purge](purge.md)
+* [Export FEC](export-fec.md)
+* [Ecritures supprimées](ecritures-supprimees.md)
+* [Diagnostic](diagnostic.md)
+* [A-nouveaux temporaires](a-nouveaux-temporaires.md)
