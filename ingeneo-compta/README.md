@@ -2,9 +2,7 @@
 
 Bienvenue dans l'aide de la nouvelle interface d'Ingeneo Compta. Choisissez un module dans le menu de gauche, ou utilisez la recherche.
 
-{% hint style="warning" %}
-Version de travail : ces pages ne sont pas encore relues.
-{% endhint %}
+
 
 ## Modules
 
