@@ -22,7 +22,7 @@
     * [Comment faire la pré-saisie comptable d'un document dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/la-saisie-comptable.md "Faire la pré-saisie comptable")
     * [Comment rechercher un document dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/rechercher-un-document.md "Rechercher un document")
     * [Modifier un document](ingeneo-pre-compta/gestion-des-documents/modifier-un-document.md)
-    * [Valider un document](ingeneo-pre-compta/gestion-des-documents/valider-un-document.md)
+    * [Comment valider ou refuser un document dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/gestion-des-documents/valider-un-document.md "Valider ou refuser un document")
     * [Masque de saisie](ingeneo-pre-compta/gestion-des-documents/masque-de-saisie.md)
     * [Validation automatique et semi automatique](ingeneo-pre-compta/gestion-des-documents/validation-automatique-et-semi-automatique.md)
     * [Gestion des mots-clés](ingeneo-pre-compta/gestion-des-documents/gestion-des-mots-cles.md)
