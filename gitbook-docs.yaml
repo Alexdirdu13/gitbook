@@ -62,13 +62,13 @@ site:
             directory: ./developpeurs
     - type: section
       key: section-5
-      title: APIV2 - Ingeneo Compta
+      title: API - Ingeneo Compta
       path: ingeneo-compta-v2
-      description: ""
+      description: API V2 Ingeneo Compta
       children:
         - type: space
           key: space-5
-          title: APIV2 - Ingeneo Compta
+          title: API - Ingeneo Compta
           path: ingeneo-compta-v2
           default: true
           draft: true
