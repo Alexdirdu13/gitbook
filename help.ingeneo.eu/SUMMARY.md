@@ -92,7 +92,7 @@
     * [Guide de démarrage — Mandats](enrolement-and-mandats/cote-cabinet/guide-de-demarrage-mandats.md)
     * [Procédure d'enrôlement - Cabinet d'expertise comptable](enrolement-and-mandats/cote-cabinet/procedure-denrolement-cabinet-dexpertise-comptable.md "Procédure d'enrôlement")
     * [Procédure de portabilité - Cabinet d'expertise comptable](enrolement-and-mandats/cote-cabinet/procedure-de-portabilite-cabinet-dexpertise-comptable/README.md "Procédure de portabilité")
-      * [Comment transférer une entreprise d'une autre PA vers la PA SEPTEO ?](enrolement-and-mandats/cote-cabinet/procedure-de-portabilite-cabinet-dexpertise-comptable/comment-transferer-une-entreprise-dune-autre-pa-vers-la-pa-septeo.md "Transférer vers la PA SEPTEO")
+      * [Comment transférer une entreprise d'une autre PA vers la PA SEPTEO dans INGENEO PRECOMPTA ?](enrolement-and-mandats/cote-cabinet/procedure-de-portabilite-cabinet-dexpertise-comptable/comment-transferer-une-entreprise-dune-autre-pa-vers-la-pa-septeo.md "Transférer une entreprise vers la PA SEPTEO")
       * [Comment transférer une entreprise de la PA SEPTEO à une autre PA ?](enrolement-and-mandats/cote-cabinet/procedure-de-portabilite-cabinet-dexpertise-comptable/comment-transferer-une-entreprise-de-la-pa-septeo-a-une-autre-pa.md "Transférer depuis la PA SEPTEO")
       * [Qu'implique la cessation d'activité d'une entreprise ?](enrolement-and-mandats/cote-cabinet/procedure-de-portabilite-cabinet-dexpertise-comptable/quimplique-la-cessation-dactivite-dune-entreprise.md "Cessation d'activité d'une entreprise")
   * [Côté Entreprises](enrolement-and-mandats/cote-entreprises/README.md)
