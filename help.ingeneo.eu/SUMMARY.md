@@ -72,7 +72,7 @@
       * [Chaînage documentaire](ingeneo-pre-compta/processus-metiers/gestion-documentaire-avancee/chainage-documentaire.md)
       * [Configurer l'Obsolescence et la Durée de conservation](ingeneo-pre-compta/processus-metiers/gestion-documentaire-avancee/configurer-lobsolescence-et-la-duree-de-conservation.md "Obsolescence et Durée de conservation")
   * [Administration](ingeneo-pre-compta/administration/README.md)
-    * [Gérer les profils de droits](ingeneo-pre-compta/administration/gerer-les-profils-de-droits.md)
+    * [Comment créer ou modifier un profil de droits dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/administration/gerer-les-profils-de-droits.md "Créer ou modifier un profil de droits")
     * [Comment donner les droits sur les statuts de facture ?](ingeneo-pre-compta/administration/comment-donner-les-droits-sur-les-statuts-de-facture.md "Droits sur les statuts de facture")
     * [Détail des droits](ingeneo-pre-compta/administration/detail-des-droits.md)
     * [Créer des utilisateurs](ingeneo-pre-compta/administration/creer-des-utilisateurs.md)
