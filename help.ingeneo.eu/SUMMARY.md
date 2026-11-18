@@ -75,7 +75,7 @@
     * [Comment créer ou modifier un profil de droits dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/administration/gerer-les-profils-de-droits.md "Créer ou modifier un profil de droits")
     * [Comment donner les droits sur les statuts de facture ?](ingeneo-pre-compta/administration/comment-donner-les-droits-sur-les-statuts-de-facture.md "Droits sur les statuts de facture")
     * [Référence : droits des profils de droits dans INGENEO PRECOMPTA](ingeneo-pre-compta/administration/detail-des-droits.md "Détail des droits")
-    * [Créer des utilisateurs](ingeneo-pre-compta/administration/creer-des-utilisateurs.md)
+    * [Comment créer un utilisateur dans INGENEO PRECOMPTA ?](ingeneo-pre-compta/administration/creer-des-utilisateurs.md "Créer des utilisateurs")
     * [Configuration visuelle](ingeneo-pre-compta/administration/configuration-visuelle.md)
     * [Gérer les sites](ingeneo-pre-compta/administration/gerer-les-sites.md)
     * [Modèles d'entreprises](ingeneo-pre-compta/administration/modeles-dentreprises.md)
