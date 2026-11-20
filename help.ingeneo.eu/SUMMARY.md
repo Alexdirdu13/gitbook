@@ -139,6 +139,7 @@
   * [Facture Enrôlements](faq/facture-enrolements.md)
   * [Reception](faq/reception.md)
 * [Release notes](release-notes/README.md)
+  * [Novembre - 2026](release-notes/novembre-2026.md)
   * [Octobre - 2026](release-notes/octobre-2026.md)
   * [Septembre - 2026](release-notes/septembre-2026.md)
   * [Août - 2026](release-notes/aout-2026.md)
