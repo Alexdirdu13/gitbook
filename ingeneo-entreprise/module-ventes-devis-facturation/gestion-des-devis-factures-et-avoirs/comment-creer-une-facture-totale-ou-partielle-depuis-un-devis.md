@@ -32,7 +32,7 @@ Vous pouvez ensuite cliquer sur le bouton **Envoyer la facture** pour la transme
 
 ## Comment annuler un devis ou facture ?
 
-Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-facture.md).
+Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-une-facture.md).
 
 **Chemin : Comment créer une facture lorsqu’il n’y a pas eu de devis ?**
 
@@ -80,7 +80,7 @@ Cliquer sur "Créer la facture d'acompte"
 
 ## Comment annuler un devis ou facture ?
 
-Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-facture.md).
+Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-une-facture.md).
 
 **Chemin : Comment créer une facture (lorsqu’il n’y a pas eu de devis) ?**
 

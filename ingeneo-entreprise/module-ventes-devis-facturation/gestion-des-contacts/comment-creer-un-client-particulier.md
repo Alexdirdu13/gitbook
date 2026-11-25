@@ -1,18 +1,18 @@
-# Comment crée un client Particulier
+# Comment créer un client Particulier
 
 ## Afficher la liste des clients
 
-Pour avoir accès aux contacts de votre société vous devez:
+Pour avoir accès aux contacts de votre société, vous devez :
 
 1. Sélectionner l'onglet "Contact"
 2. Puis sélectionner l'onglet "Clients"
-3. Enfin cliquer sur le bouton **Ajouter un client**
+3. Enfin, cliquer sur le bouton **Ajouter un client**
 
 ## Ajouter un client Particulier
 
-Sélectionnez ensuite le bouton **Particulier** en haut de la popup puis renseignez les informations :
+Sélectionnez ensuite le bouton **Particulier** en haut de la popup, puis renseignez les informations :
 
-* Informations principales (Champ Nom requis)
+* Informations principales (champ Nom requis)
 * Adresse
 * Paiement (mode de paiement par défaut)
 * Comptabilité (compte comptable client)

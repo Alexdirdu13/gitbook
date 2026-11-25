@@ -4,27 +4,24 @@
 
 Vous pouvez créer un modèle de factures d’abonnement.
 
-Les modèles vous permettent de créer des factures type, que vous pourrez utiliser sur un ou plusieurs clients.
+Les modèles vous permettent de créer des factures types, que vous pourrez utiliser pour un ou plusieurs clients.
 
-Pour créer un modèle, cliquez sur l'onglet **Vente** puis sur **Paramètre**s et enfin sur **Modèles d'abonnement**.
+Pour créer un modèle, cliquez sur l'onglet **Ventes**, puis sur **Paramètres** et enfin sur **Modèles d'abonnement**.
 
 ## Créer un modèle
 
-Cliquez ensuite sur le bouton en haut à droite "**Créer un modèle**"
+Cliquez ensuite sur le bouton "**Créer un modèle**" en haut à droite.
 
 S'agissant d'un modèle, aucune information de client n'est affichée.
 
-Renseignez ensuite les différentes informations que vous souhaitez voir afficher sur les factures générées :
+Renseignez ensuite les différentes informations que vous souhaitez voir affichées sur les factures générées :
 
-1 - L'objet de la facture
+1. L'objet de la facture
+2. Le mode et le délai de paiement
+3. Les articles de votre catalogue de produits
+4. Les informations du pied de page
 
-2 - Le mode et le délai de paiement
-
-3 - Les articles de votre catalogue de produit
-
-4 - Les informations du pied de page
-
-Cliquez ensuite sur **Valider**
+Cliquez ensuite sur **Valider**.
 
 ## Liste des abonnements
 

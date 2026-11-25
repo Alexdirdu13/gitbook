@@ -10,7 +10,7 @@ Après paramétrage, lors de création de la facture d'acompte, le montant param
 
 ## Comment annuler un devis ou facture ?
 
-Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-facture.md).
+Ce parcours renvoie vers le guide [Comment annuler un devis ou facture ?](comment-annuler-un-devis-ou-une-facture.md).
 
 **Chemin : Comment créer une facture (lorsqu’il n’y a pas eu de devis) ?**
 

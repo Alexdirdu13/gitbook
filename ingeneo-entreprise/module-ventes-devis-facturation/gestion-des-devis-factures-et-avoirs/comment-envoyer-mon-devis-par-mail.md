@@ -12,24 +12,20 @@ Cliquez ensuite sur votre devis (n'importe où sur la ligne) pour le visualiser.
 
 Vous pouvez ensuite cliquer sur le bouton **Envoyer le devis** en haut à droite.
 
-## Paramétrage de l'email
+## Paramétrage de l'e-mail
 
 Vous devez renseigner les éléments suivants :
 
-1- La ou les adresses mails des destinataires
+1. La ou les adresses e-mail des destinataires
+2. Des adresses e-mail en copie ou en copie cachée (facultatif)
+3. L'objet de l'e-mail (modifiable)
+4. Le message : le modèle d'e-mail "Envoi Devis Client" est affiché par défaut, mais vous pouvez personnaliser le message
+5. Le devis est automatiquement ajouté en pièce jointe au format PDF
 
-2- Ajouter des adresses mails en copie ou copie cachée
+Une fois les éléments renseignés, cliquez sur **Envoyer**.
 
-3- Modifier l'objet du mail
+**Chemin : Comment indiquer mon devis comme “accepté / refusé” ?**
 
-4- Modifier le message, le modèle email "Envoi Devis Client" par défaut est affiché mais vous pouvez personnaliser le message
-
-5- le devis sera automatiquement ajouté en pièce jointe au format .pdf
-
-Une fois les éléments renseignés, cliquez sur **Envoyer**
-
-**Chemin : Comment indiqué mon devis comme “accepté / refusé” ?**
-
-## Comment indiqué mon devis comme “accepté / refusé” ?
+## Comment indiquer mon devis comme “accepté / refusé” ?
 
 Ce parcours renvoie vers le guide [Comment indiquer mon devis comme accepté ou refusé ?](comment-indiquer-mon-devis-comme-accepte-ou-refuse.md).

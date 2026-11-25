@@ -10,13 +10,13 @@ L'icône verte indique que vos produits sont actuellement disponibles.
 
 Si vous souhaitez rendre un produit indisponible, cliquez sur le produit pour l'éditer.
 
-Décochez ensuite le produit en haut à droite, le produit passera en indisponible.
+Décochez ensuite le produit en haut à droite : le produit passera en indisponible.
 
-Valider ensuite vos modifications en cliquant sur le bouton **Valider** en bas de la fenêtre.
+Validez ensuite vos modifications en cliquant sur le bouton **Valider** en bas de la fenêtre.
 
 ## Liste des produits
 
-L'icône du produit est désormais en rouge et vous indique que le produit n'est pas disponible.
+L'icône du produit est désormais rouge et vous indique que le produit n'est pas disponible.
 
 **Attention :**
 
