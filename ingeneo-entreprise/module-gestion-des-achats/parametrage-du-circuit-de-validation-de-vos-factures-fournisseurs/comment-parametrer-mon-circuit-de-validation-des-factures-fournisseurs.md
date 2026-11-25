@@ -1,8 +1,8 @@
-# Comment paramétrer mon circuit de validation des factures fournisseurs?
+# Comment paramétrer mon circuit de validation des factures fournisseurs ?
 
 ## Se rendre sur la vue des workflows
 
-Pour paramétrer vos statuts, il vous faut dans un premier temps vous rendre dans le menu défilant "**Achats**" puis de cliquer sur "**Etapes de validation**".
+Pour paramétrer vos statuts, rendez-vous d'abord dans le menu déroulant "**Achats**", puis cliquez sur "**Étapes de validation**".
 
 Vous aurez par défaut les trois étapes suivantes :
 
@@ -18,11 +18,11 @@ Pour créer un nouveau statut, il vous suffit de cliquer sur le bouton "**Ajoute
 
 ## Informations
 
-Une fenêtre apparaîtra. Vous pourrez créer le nom que vous souhaitez donner au statut, sa couleur ainsi que le reste des champs que vous voyez à remplir selon vos souhaits.
+Une fenêtre apparaîtra. Vous pourrez donner le nom que vous souhaitez au statut, choisir sa couleur et renseigner le reste des champs selon vos souhaits.
 
 ## Autorisations
 
-Continuez de défiler la fenêtre pour arriver aux autorisations. Ici, vous aurez la possibilité de gérer l'accès aux statuts, aux autorisations de validation et de modification des documents ainsi que de leur visibilité.
+Continuez de faire défiler la fenêtre pour arriver aux autorisations. Ici, vous aurez la possibilité de gérer l'accès aux statuts, les autorisations de validation et de modification des documents, ainsi que leur visibilité.
 
 **À savoir :**
 
@@ -30,19 +30,19 @@ Vous avez aussi la possibilité d'ajouter des blocs de conditions en cliquant su
 
 ## Exemple 1
 
-Par exemple, si vous souhaitez restreindre la validation du document au profil Manager, vous pouvez renseignez les éléments suivants :
+Par exemple, si vous souhaitez restreindre la validation du document au profil Manager, vous pouvez renseigner les éléments suivants :
 
-* Profil : cochez Admin et Manager **(NB : pensez à bien cocher le profil Admin à chaque fois que vous ajoutez une restriction, en effet ce profil ne doit pas avoir de restriction)**
+* Profil : cochez Admin et Manager **(NB : pensez à bien cocher le profil Admin à chaque fois que vous ajoutez une restriction ; en effet, ce profil ne doit pas avoir de restriction)**
 
-Vous pouvez également appliquer cette restriction sur des utilisateurs plutôt que des profils.
+Vous pouvez également appliquer cette restriction à des utilisateurs plutôt qu'à des profils.
 
 ## Exemple 2
 
-Vous pouvez également ajouter des conditions si vous ne souhaitez pas que ces restrictions s'applique à l'ensemble de vos factures.
+Vous pouvez également ajouter des conditions si vous ne souhaitez pas que ces restrictions s'appliquent à l'ensemble de vos factures.
 
-Par exemple vous souhaitez restreindre la validation des factures supérieures à 500€ au profil manager.
+Par exemple, vous souhaitez restreindre au profil Manager la validation des factures supérieures à 500 €.
 
-Vous pouvez cliquer sur "ajouter un bloc de condition" et renseigner les champs suivants :
+Vous pouvez cliquer sur "Ajouter un bloc de condition" et renseigner les champs suivants :
 
 * Source : Montant HT
 * Comparaison : Supérieur à
@@ -51,7 +51,7 @@ Vous pouvez cliquer sur "ajouter un bloc de condition" et renseigner les champs 
 
 ## Prochaine étape
 
-En continuant de défiler, vous pourrez choisir la prochaine étape du statut parmi ceux déjà existants.
+En continuant de faire défiler la fenêtre, vous pourrez choisir la prochaine étape du statut parmi celles déjà existantes.
 
 **À savoir :**
 
@@ -63,7 +63,7 @@ Pour finaliser la création du nouveau statut, cliquez sur le bouton "**Valider*
 
 ## Modifier un statut
 
-Pour modifier un statut, il vous faut cliquer sur le pinceau pour pouvoir accéder à l'éditeur.
+Pour modifier un statut, cliquez sur le pinceau pour accéder à l'éditeur.
 
 **Chemin : Supprimer un statut**
 

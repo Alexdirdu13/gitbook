@@ -4,23 +4,23 @@
 
 Cliquez sur le bouton "**Achat**" dans le menu principal à gauche de la page.
 
-Ensuite, cliquez sur "**Factures**" puis sur n'importe quels champs de la facture que vous souhaitez visualiser.
+Ensuite, cliquez sur "**Factures**", puis sur n'importe quel champ de la facture que vous souhaitez visualiser.
 
 **Attention :**
 
-Attention, ce module n'est disponible que s'il est activé sur votre espace.
+Ce module n'est disponible que s'il est activé sur votre espace.
 
 ## Saisie du fournisseur
 
-Une nouvelle fenêtre s'ouvrira, cliquez sur le bouton "**Fournisseur**".
+Une nouvelle fenêtre s'ouvrira : cliquez sur le bouton "**Fournisseur**".
 
-* Dans la barre de recherche, écrivez le nom du fournisseur que vous souhaitez ajouter, (**ex : Fournisseur 1**).
-* Un bouton pour créer le fournisseur s'affichera, cliquez dessus et remplissez les informations de votre nouveau fournisseur.
+* Dans la barre de recherche, écrivez le nom du fournisseur que vous souhaitez ajouter (**ex : Fournisseur 1**).
+* Un bouton pour créer le fournisseur s'affichera : cliquez dessus et remplissez les informations de votre nouveau fournisseur.
 
 ## Validation du fournisseur
 
 Cliquez sur le bouton "**Ajouter**" en bas à droite afin de valider votre demande de création d'un nouveau fournisseur.
 
-## Trouver le fournisseur crée
+## Trouver le fournisseur créé
 
 Votre fournisseur est créé. Vous pouvez le sélectionner en saisissant son nom dans la barre de recherche.

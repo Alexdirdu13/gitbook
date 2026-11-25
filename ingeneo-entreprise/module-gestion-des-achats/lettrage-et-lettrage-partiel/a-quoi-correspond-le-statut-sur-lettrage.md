@@ -1,8 +1,8 @@
-# A quoi correspond le statut sur lettrage ?
+# À quoi correspond le statut sur lettrage ?
 
 ## Statut de lettrage
 
-Le statut de lettrage permet de savoir si la transaction est justifiée, non justifiée ou bien son justificatif est perdu.
+Le statut de lettrage permet de savoir si la transaction est justifiée, non justifiée ou si son justificatif est perdu.
 
 Pour trouver le statut de votre lettrage, cliquez sur "**Achats**" puis sur "**Lettrage**" dans le menu principal à gauche. Cliquez ensuite sur l'onglet **"Toutes les opérations"**.
 

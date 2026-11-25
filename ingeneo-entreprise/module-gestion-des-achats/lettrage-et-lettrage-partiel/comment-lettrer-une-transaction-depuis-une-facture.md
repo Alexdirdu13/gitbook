@@ -6,7 +6,7 @@
 
 Cliquez sur le bouton "**Achat**" dans le menu principal à gauche de la page.
 
-Ensuite, cliquez sur "**Factures**" puis sur le bouton sous forme de **A** à droite.
+Ensuite, cliquez sur "**Factures**", puis sur le bouton en forme de **A** à droite.
 
 ## Autre méthode : depuis le détail de la facture
 
@@ -18,9 +18,9 @@ Cliquez directement sur la ligne de la facture pour accéder à la fenêtre affi
 
 ![Capture d'écran](../../.gitbook/assets/lettrage-facture-3.png)
 
-Une fois que la fenêtre de lettrage ouverte, vous trouverez dans l'onglet **Décaissements**, la transaction correspondant à la facture.
+Une fois la fenêtre de lettrage ouverte, vous trouverez dans l'onglet **Décaissements** la transaction correspondant à la facture.
 
-Qotid filtre automatiquement les montants "**Égal à..."**. Cliquez ensuite sur la transaction à rapprocher, puis **Confirmez**.
+Qotid filtre automatiquement les montants "**Égal à...**". Cliquez ensuite sur la transaction à rapprocher, puis **Confirmez**.
 
 ## Voir le lettrage
 
@@ -30,4 +30,4 @@ Une fois le lettrage effectué, vous verrez un nouvel onglet **Lettrage** dans l
 
 **À savoir :**
 
-Si le restant à rapprocher est à 0,00€, le lettrage apparaîtra comme **Complet**. S'il reste un solde résiduel, le lettrage apparaîtra comme **Partiel**.
+Si le restant à rapprocher est à 0,00 €, le lettrage apparaîtra comme **Complet**. S'il reste un solde résiduel, le lettrage apparaîtra comme **Partiel**.

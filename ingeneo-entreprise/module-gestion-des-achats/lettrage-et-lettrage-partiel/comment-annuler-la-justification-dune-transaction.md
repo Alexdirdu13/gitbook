@@ -2,9 +2,9 @@
 
 ## Mettre à jour la justification de transaction
 
-Cliquez sur "**Trésorerie**" puis sur "**Transaction**" dans le menu principal à gauche de la page.
+Cliquez sur "**Trésorerie**" puis sur "**Transactions**" dans le menu principal à gauche de la page.
 
-Le bouton "Lettrage" représenté par l'icône "A" à droite des transactions permettent de mettre à jour la justification de transaction.
+Le bouton "Lettrage", représenté par l'icône "A" à droite des transactions, permet de mettre à jour la justification de la transaction.
 
 * "**La lettre A**" correspond à "Lettrage".
 * "**L'image barrée**" correspond à "Aucun justificatif".
@@ -13,4 +13,4 @@ Le bouton "Lettrage" représenté par l'icône "A" à droite des transactions pe
 
 ## Annuler la justification d'une transaction
 
-Vous avez mis à jour le statut mais vous voulez l'annuler, cliquez sur la "**lettre A barrée**" qui s'affiche pour annuler la justification de votre transaction.
+Si vous avez mis à jour le statut mais que vous voulez l'annuler, cliquez sur la "**lettre A barrée**" qui s'affiche pour annuler la justification de votre transaction.
