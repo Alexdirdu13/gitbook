@@ -1,12 +1,8 @@
----
-description: >-
-  Demander dans INGENEO PRECOMPTA la portabilité vers la PA SEPTEO d'une
-  entreprise refusée en Portabilité requise, puis suivre la demande.
----
-
 # Comment transférer une entreprise d'une autre PA vers la PA SEPTEO dans INGENEO PRECOMPTA ?
 
-**Résumé :** Cette procédure permet de demander, dans INGENEO PRECOMPTA, le transfert des mailles d'adressage d'une entreprise de sa PA d'origine vers la PA SEPTEO, puis de suivre la demande. Elle se fait dans `Paramètres > Enrôlement PA` et nécessite un profil de site avec le droit `Autoriser l'accès au paramétrage de la facturation électronique.`.
+**Résumé :** Cette procédure permet de demander, dans INGENEO PRECOMPTA, le transfert des mailles d'adressage d'une entreprise de sa PA d'origine vers la PA SEPTEO, puis de suivre la demande.&#x20;
+
+Elle se fait dans `Paramètres > Enrôlement PA` et nécessite un profil de site avec le droit `Autoriser l'accès au paramétrage de la facturation électronique.`.
 
 ## Objectif
 
@@ -208,15 +204,6 @@ Dans INGENEO PRECOMPTA, le statut global d'une demande de portabilité se calcul
 Exemple : une demande de 3 mailles, dont 1 réussie et 2 en `Inscription annuaire en cours`, reste en `Inscription annuaire en cours`. Une demande dont une maille est refusée et l'autre sans réponse reste en `Portabilité en attente`.
 
 Dans INGENEO PRECOMPTA, le statut affiché dans l'onglet `Portabilité` est le dernier statut connu. Il se met à jour avec un décalage après le changement chez SEPTEO. Rechargez la page avant de conclure qu'un statut est bloqué.
-
-### Fin de parcours : comportement actuel
-
-Dans la version actuelle d'INGENEO PRECOMPTA :
-
-* quand une demande est en `Portabilité réussie`, l'enrôlement de l'entreprise reste `Enrôlement refusé` avec `Portabilité requise` dans l'onglet `Enrôlements`. La relance de l'enrôlement après portabilité n'est pas encore livrée. Ce n'est pas une anomalie ;
-* aucun traitement livré ne fait passer une maille d'adressage en `Inscription annuaire en cours` ni en `Portabilité réussie`. Une demande acceptée par la PA d'origine reste en `Portabilité en cours` ;
-* le contrôle de l'annuaire à J+15 n'est pas réalisé ;
-* après une portabilité réussie, le bouton `Initier une demande de portabilité` est masqué dans l'onglet `Enrôlements`.
 
 ## Erreurs fréquentes
 
