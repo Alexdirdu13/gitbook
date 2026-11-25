@@ -10,15 +10,11 @@ Bienvenue dans votre base de connaissance entreprise. Retrouvez ici tous les gui
 
 <table data-card-size="large" data-card-wrap="false" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🧾 Module Ventes (Devis Facturation)</strong></td><td>Paramétrage, produits, clients et contacts, devis, factures, avoirs, abonnements, exports</td><td><a href="module-ventes-devis-facturation/">module-ventes-devis-facturation</a></td></tr><tr><td><strong>🛍️ Module gestion des achats</strong></td><td>Collecte et validation des factures, fournisseurs, circuit de validation, lettrage, échéancier</td><td><a href="module-gestion-des-achats/">module-gestion-des-achats</a></td></tr></tbody></table>
 
-
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>💰 Module pilotage de trésorerie</strong></td><td>Connexion des banques, transactions, prévisionnel, plan de trésorerie, exports.</td><td><a href="module-pilotage-de-tresorerie/">module-pilotage-de-tresorerie</a></td></tr><tr><td><strong>💳 Module Paiement (Compte Pro et CB Business)</strong></td><td>Ouverture et gestion du Compte Pro, cartes business, permissions, virements et approbations</td><td><a href="module-paiement-compte-pro-et-cb-business/">module-paiement-compte-pro-et-cb-business</a></td></tr><tr><td><strong>📒 Module Comptabilité</strong></td><td>Export des écritures comptables, documents, annulation d'exports</td><td><a href="module-comptabilite/">module-comptabilite</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>💰 Module pilotage de trésorerie</strong></td><td>Connexion des banques, transactions, prévisionnel, plan de trésorerie, exports.</td><td><a href="module-pilotage-de-tresorerie/">module-pilotage-de-tresorerie</a></td></tr><tr><td><strong>💳 Module Paiement (Compte Pro et CB Business)</strong></td><td>Ouverture et gestion du Compte Pro, cartes business, permissions, virements et approbations</td><td><a href="module-paiement-compte-pro-et-cb-business/">module-paiement-compte-pro-et-cb-business</a></td></tr><tr><td><strong>🧳 Module Notes de frais</strong></td><td>Licences et droits, types de frais, cartes professionnelles, création, validation et paiement des notes de frais</td><td><a href="module-notes-de-frais/">module-notes-de-frais</a></td></tr><tr><td><strong>📒 Module Comptabilité</strong></td><td>Export des écritures comptables, documents, annulation d'exports</td><td><a href="module-comptabilite/">module-comptabilite</a></td></tr></tbody></table>
 
 ## Modules BI / Reporting
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📊 Module BI &#x26; reporting</strong></td><td>Compte de résultat, tableaux de bord, budgets, workflow de validation, exports PDF, imports de données</td><td><a href="module-bi-reporting/">module-bi-reporting</a></td></tr></tbody></table>
-
-
 
 ## Question fréquentes
 
