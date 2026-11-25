@@ -2,4 +2,4 @@
 
 ## Afficher les totaux sur mes tableaux
 
-Dans cette vidéo nous vous expliquons comment vous pouvez afficher les totaux sur vos tableaux
+Dans cette vidéo, nous vous expliquons comment vous pouvez afficher les totaux sur vos tableaux.

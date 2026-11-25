@@ -1,4 +1,4 @@
-# \[REFORME DE LA FACTURATION ELECTRONIQUE] Est ce que QOTID est une plateforme immatriculée ou certifi
+# \[REFORME DE LA FACTURATION ELECTRONIQUE] Est-ce que QOTID est une plateforme immatriculée ou certifi
 
 ## Plateforme immatriculée PDP
 
@@ -6,7 +6,7 @@
 
 Nous tenons également à vous rassurer : **QOTID proposera un service PDP gratuit à tous ses clients** pour leur permettre **d’émettre et de recevoir leurs factures électroniques en totale conformité** avec les exigences de l’administration, dès que la réforme entrera en vigueur.
 
-Si c'est votre choix, vous pourrez donc souscrire à la PDP by Qotid à travers notre application lorsque l'obligation rentrera en vigueur sans avoir besoin de changer de logiciel. Si vous décidez de souscrire à une autre PDP, Qotid communiquera avec cette PDP pour émettre et recevoir vos factures électroniques afin que vous puissiez continuer à gérez votre trésorerie, payer vos fournisseurs et piloter votre entreprise sans effort comme vous le faites aujourd'hui.
+Si c'est votre choix, vous pourrez donc souscrire à la PDP by Qotid à travers notre application lorsque l'obligation entrera en vigueur, sans avoir besoin de changer de logiciel. Si vous décidez de souscrire à une autre PDP, Qotid communiquera avec cette PDP pour émettre et recevoir vos factures électroniques afin que vous puissiez continuer à gérer votre trésorerie, payer vos fournisseurs et piloter votre entreprise sans effort, comme vous le faites aujourd'hui.
 
 **📅 Rappel sur le calendrier de la réforme**
 

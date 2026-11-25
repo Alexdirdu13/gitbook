@@ -1,6 +1,6 @@
-# A quoi sert l'adressage dans le cadre de la facturation éléctronique ?
+# À quoi sert l'adressage dans le cadre de la facturation électronique ?
 
-## L'utilité de l'adressage dans le cadre de la facturation éléctronique
+## L'utilité de l'adressage dans le cadre de la facturation électronique
 
 L'adressage, dans le contexte de la facturation électronique (notamment la réforme française du e-invoicing entre entreprises), c'est le mécanisme qui permet de savoir **à qui envoyer une facture électronique et par quel canal**, de façon fiable et automatisée.
 
@@ -16,13 +16,13 @@ Une facture doit arriver à l'entité juridique exacte qui doit la recevoir (et 
 
 **2. Trouver la "route" technique**
 
-Chaque entreprise choisit sa propre plateforme pour émettre et recevoir ses factures (ce qu'on appelle une PA — Plateforme Agrée). L'émetteur ne sait pas forcément quelle plateforme utilise son client. Un **annuaire central** (tenu par l'administration fiscale, via le futur PPF — Portail Public de Facturation) répertorie qui utilise quelle plateforme en fonction de son adressage.
+Chaque entreprise choisit sa propre plateforme pour émettre et recevoir ses factures (ce qu'on appelle une PA, Plateforme Agréée). L'émetteur ne sait pas forcément quelle plateforme utilise son client. Un **annuaire central** (tenu par l'administration fiscale, via le futur PPF, Portail Public de Facturation) répertorie qui utilise quelle plateforme en fonction de son adressage.
 
-**À savoir :** En effet une entreprise pourrait utiliser plusieurs PA. Pour l'adressage SIREN + SUFFIXE par exemple 123456789\_FRAISGENERAUX l'entreprise utilise la PA en réception 1 et pour l'adressage 123456789\_ACHATSTRATEGIQUE l'entreprise utilise la PA en réception 2
+**À savoir :** en effet, une entreprise peut utiliser plusieurs PA. Pour l'adressage SIREN + SUFFIXE, par exemple 123456789\_FRAISGENERAUX, l'entreprise utilise la PA en réception 1 et, pour l'adressage 123456789\_ACHATSTRATEGIQUE, l'entreprise utilise la PA en réception 2.
 
-L'adressage consiste à acheminer la facture vers la bonne adresse et d'identifier au passage la plateforme qui recevra la facture.
+L'adressage consiste à acheminer la facture vers la bonne adresse et à identifier au passage la plateforme qui recevra la facture.
 
-Si votre fournisseur n'enregistre pas d'adressage par défaut il risque d'envoyer la facture sur votre identifiant adressage SIREN et donc envoyer la facture au mauvais endroit.
+Si votre fournisseur n'enregistre pas d'adressage par défaut, il risque d'envoyer la facture sur votre identifiant d'adressage SIREN et donc de l'envoyer au mauvais endroit.
 
 **3. Acheminer la facture sans intervention humaine**
 
@@ -33,7 +33,7 @@ Une fois la bonne plateforme identifiée, l'adressage permet le routage automati
 Sans adressage fiable :
 
 * des factures pourraient être perdues ou envoyées au mauvais interlocuteur ;
-* l'automatisation complète du cycle facture (obligation centrale de la réforme) serait impossible ;
+* l'automatisation complète du cycle de la facture (obligation centrale de la réforme) serait impossible ;
 * l'administration fiscale perdrait la capacité de collecter les données de facturation (e-reporting) de façon cohérente.
 
-L'adressage est donc un peu l'équivalent d'un "système postal" numérique et normalisé pour les factures, indispensable pour que la dématérialisation fonctionne
+L'adressage est donc un peu l'équivalent d'un "système postal" numérique et normalisé pour les factures, indispensable pour que la dématérialisation fonctionne.
