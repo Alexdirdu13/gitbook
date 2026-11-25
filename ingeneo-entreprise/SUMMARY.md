@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Onboarding Plateforme Agréée Septeo](README.md)
+* [🏠 Accueil](README.md)
+* [Onboarding Plateforme Agréée Septeo](<README (1).md>)
   * [Comment s'onboarder sur la plateforme Agréée Septeo ?](onboarding-plateforme-agreee-septeo/comment-sonboarder-sur-la-plateforme-agreee-septeo.md)
   * [Vérification Onboarding PA Septeo](onboarding-plateforme-agreee-septeo/verification-onboarding-pa-septeo.md)
   * [Information à transmettre à vos fournisseurs](onboarding-plateforme-agreee-septeo/information-a-transmettre-a-vos-fournisseurs.md)
