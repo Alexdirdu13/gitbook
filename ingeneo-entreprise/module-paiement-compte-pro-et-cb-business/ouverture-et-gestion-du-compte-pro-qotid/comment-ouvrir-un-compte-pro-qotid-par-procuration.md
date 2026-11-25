@@ -2,11 +2,11 @@
 
 ## Comment ouvrir un compte Pro Qotid avec une procuration du représentant légal
 
-Pour ouvrir un compte Pro Qotid, si vous n'êtes pas le représentant légal (inscrit au Kbis de la société), vous pourrez malgré ouvrir le compte Pro uniquement si vous avez une **procuration du représentant légale**.
+Pour ouvrir un compte Pro Qotid, si vous n'êtes pas le représentant légal (inscrit au Kbis de la société), vous pourrez malgré tout ouvrir le compte Pro, uniquement si vous avez une **procuration du représentant légal**.
 
-Lors de la création du compte il faudra cocher "**Non, j'ai une procuration**" au moment de la question "Etes-vous le représentant légal ?"
+Lors de la création du compte, il faudra cocher "**Non, j'ai une procuration**" au moment de la question "Êtes-vous le représentant légal ?"
 
-A la suite du processus d'ouverture de votre compte de paiement vous devrez fournir **procuration signée** par le représentant légal de l'entreprise, ainsi qu'une **pièce d'identité** de ce dernier.
+À la suite du processus d'ouverture de votre compte de paiement, vous devrez fournir la **procuration signée** par le représentant légal de l'entreprise, ainsi qu'une **pièce d'identité** de ce dernier.
 
 Dans l'étape suivante, nous vous fournissons un **modèle de procuration.**
 
@@ -16,7 +16,7 @@ N'oubliez pas que l'entreprise reste le **titulaire du compte**. La personne qui
 
 ## Remplir le document de procuration
 
-A la fin du processus de création du compte, vous devrez déposer le **document de procuration** complété (voir modèle en PJ). Lorsque vous remplissez le document de procuration, les informations suivantes sont nécessaires :
+À la fin du processus de création du compte, vous devrez déposer le **document de procuration** complété (voir le modèle en pièce jointe). Lorsque vous remplissez le document de procuration, les informations suivantes sont nécessaires :
 
 1. **Représentant légal et coordonnées de l'entreprise** : indiquez le nom complet, la date de naissance, le lieu de naissance, le nom de l'entreprise et le numéro d'enregistrement.
 2. **Attestation déclarative** : ajoutez une attestation autorisant la personne choisie à ouvrir et à gérer votre compte de paiement en votre nom.

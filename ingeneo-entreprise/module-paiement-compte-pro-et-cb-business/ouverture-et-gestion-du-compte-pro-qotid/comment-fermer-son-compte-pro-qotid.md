@@ -2,7 +2,7 @@
 
 ## Fermer son compte Pro Qotid
 
-Pour ferme votre compte Pro Qotid vous pouvez écrire à : [support@swan.io](mailto:support@swan.io)
+Pour fermer votre compte Pro Qotid, vous pouvez écrire à : [support@swan.io](mailto:support@swan.io)
 
 **À savoir :**
 

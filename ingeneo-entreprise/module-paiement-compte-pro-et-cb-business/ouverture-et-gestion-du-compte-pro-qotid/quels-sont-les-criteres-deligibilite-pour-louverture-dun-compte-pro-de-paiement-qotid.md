@@ -6,26 +6,26 @@ Pour ouvrir un compte Pro chez Qotid, certains critères d'éligibilité doivent
 
 Le fait de répondre à ces critères d'éligibilité ne vous garantit pas l'ouverture d'un compte.
 
-**Critères d'éligibilités des entreprises :**
+**Critères d'éligibilité des entreprises :**
 
-* Votre entreprise doit être en activité et conforme
+* Votre entreprise doit être en activité et conforme.
 * **Localisation** de l'entreprise : votre entreprise doit être enregistrée et avoir une adresse légale dans l'EEE.
 * **Activités restreintes** : votre entreprise ne doit pas exercer d'activités figurant sur la liste des activités restreintes.
 * **Représentants légaux** : les représentants légaux qui gèrent un compte de paiement pour une personne morale doivent être âgés d'au moins 18 ans.
 
 **Citoyens américains**
 
-*   Les bénéficiaires effectifs ultimes (UBO) d’entreprises nées aux États-Unis doivent :
-
-    Fournir un certificat de perte de nationalité (CNL) Fournir une preuve de résidence dans l'EEE
+* Les bénéficiaires effectifs ultimes (UBO) d’entreprises nées aux États-Unis doivent :
+  * fournir un certificat de perte de nationalité (CNL) ;
+  * fournir une preuve de résidence dans l'EEE.
 
 En adhérant à ces lignes directrices, vous vous assurez que votre demande d'ouverture de compte chez Swan est conforme aux normes réglementaires et de conformité nécessaires.
 
-**Chemin : Définition d'un bénéficiaires effectifs ultimes (UBO)**
+**Chemin : Définition d'un bénéficiaire effectif ultime (UBO)**
 
-## Qu'est-ce qu'un Bénéficiaires effectifs ultimes (UBO) ?
+## Qu'est-ce qu'un bénéficiaire effectif ultime (UBO) ?
 
-Ce parcours renvoie vers le guide [Qu'est-ce qu'un Bénéficiaires effectifs ultimes (UBO) ?](quest-ce-quun-beneficiaires-effectifs-ultimes-ubo.md).
+Ce parcours renvoie vers le guide [Qu'est-ce qu'un bénéficiaire effectif ultime (UBO) ?](quest-ce-quun-beneficiaire-effectif-ultime-ubo.md).
 
 **Chemin : Quelle est la liste des entreprises soumises à restriction ?**
 

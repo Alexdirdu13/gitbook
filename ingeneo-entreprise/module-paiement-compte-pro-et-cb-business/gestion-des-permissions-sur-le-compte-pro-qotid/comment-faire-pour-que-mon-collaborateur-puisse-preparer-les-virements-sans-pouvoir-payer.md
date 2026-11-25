@@ -1,10 +1,10 @@
 # Comment faire pour que mon collaborateur puisse préparer les virements sans pouvoir payer ?
 
-## Editer les droits d'un collaborateur
+## Éditer les droits d'un collaborateur
 
-Pour permettre à vos collaborateurs de préparer les virements sans les valider, il suffit d'activer ce droit au profil utilisateur des collaborateur.
+Pour permettre à vos collaborateurs de préparer les virements sans les valider, il suffit d'activer ce droit sur le profil utilisateur des collaborateurs.
 
-Pour cela, vous pouvez vous rendre dans le menu **Collaborateur** dans les paramètres du compte.
+Pour cela, vous pouvez vous rendre dans le menu **Collaborateurs** dans les paramètres du compte.
 
 ## Modifier le profil
 

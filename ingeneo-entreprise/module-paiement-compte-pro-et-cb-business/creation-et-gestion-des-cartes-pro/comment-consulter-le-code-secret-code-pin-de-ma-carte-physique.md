@@ -2,20 +2,20 @@
 
 ## Comment consulter le code secret (code PIN) de ma carte physique ?
 
-Depuis Qotid, cliquez sur **Compte Pro**, puis **Cartes**, puis **...**
+Depuis Qotid, cliquez sur **Compte Pro**, puis sur **Cartes**, puis sur **...**
 
-Vous serez redirigé sur la web interface de la banque. Un sms de confirmation vous sera envoyé.
-
-## Comment consulter le code secret (code PIN) de ma carte physique ?
-
-Esnuite cliquez sur **Cartes** puis cliquez sur la **carte Physique** dont vous souhaitez révélez le mot de passe
+Vous serez redirigé vers l'interface web de la banque. Un SMS de confirmation vous sera envoyé.
 
 ## Comment consulter le code secret (code PIN) de ma carte physique ?
 
-Ensuite cliquez sur **Carte Physique**, puis **Afficher le code Pin**.
+Ensuite, cliquez sur **Cartes**, puis sur la **carte physique** dont vous souhaitez révéler le code.
 
-Un sms de confirmation vous sera envoyé et après confirmation vous trouverez votre code Pin s'affichera sur votre téléphone portable
+## Comment consulter le code secret (code PIN) de ma carte physique ?
+
+Ensuite, cliquez sur **Carte physique**, puis sur **Afficher le code PIN**.
+
+Un SMS de confirmation vous sera envoyé et, après confirmation, votre code PIN s'affichera sur votre téléphone portable.
 
 **Attention :**
 
-Vous ne pouvez pas modifier votre code Pin
+Vous ne pouvez pas modifier votre code PIN.
