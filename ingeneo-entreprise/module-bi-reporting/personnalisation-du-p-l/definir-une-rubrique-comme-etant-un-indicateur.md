@@ -10,8 +10,8 @@ Pour cela dans le paramétrage de votre reporting, il suffit de cocher la case I
 
 ## Comment analyser votre compte de résultat sous forme de KPIs
 
-Consultez également le guide [Comment analyser votre compte de résultat sous forme de KPIs](https://support.qotid.com/kb/fr/).
+Consultez également le guide [Comment analyser votre compte de résultat sous forme de KPIs](../compte-de-resultat/comment-analyser-votre-compte-de-resultat-sous-forme-de-kpis.md).
 
 ## Présentation du module rapport
 
-Consultez également le guide [Présentation du module rapport](https://support.qotid.com/kb/fr/).
+Consultez également le guide [Présentation du module rapport](../rapports-dashboards/1.-presentation-du-module-tableaux-de-bord.md).

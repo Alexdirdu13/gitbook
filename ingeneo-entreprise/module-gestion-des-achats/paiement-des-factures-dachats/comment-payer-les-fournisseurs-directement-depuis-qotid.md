@@ -60,7 +60,7 @@ Ce parcours renvoie vers le guide [Comment payer mes factures fournisseurs en g�
 
 ## 2. Comment gérer le niveau de validation de vos utilisateurs ?
 
-Ce parcours renvoie vers le guide [2. Comment gérer le niveau de validation de vos utilisateurs ?](https://support.qotid.com/kb/guide/fr/2-comment-gerer-le-niveau-de-validation-de-vos-utilisateurs-ZEUbe6WImN).
+Ce parcours renvoie vers le guide [2. Comment gérer le niveau de validation de vos utilisateurs ?](../../module-bi-reporting/workflow/2.-comment-gerer-le-niveau-de-validation-de-vos-utilisateurs.md).
 
 **Chemin : Comment paramétrer mon circuit de validation des factures fournisseurs?**
 

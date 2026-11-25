@@ -97,7 +97,7 @@ Vous pouvez maintenant commencer à catégoriser vos flux de trésorerie, créer
 
 ![Capture d'écran](../../.gitbook/assets/nouvelle-banque-15.png)
 
-Consultez également le guide [Comment catégoriser vos transactions bancaires](https://support.qotid.com/kb/guide/fr/comment-visualiser-vos-transactions-bancaires-hTQm7xwuGj).
+Consultez également le guide [Comment catégoriser vos transactions bancaires](../transactions-bancaires/comment-categoriser-vos-transactions-bancaires.md).
 
 ## Ma banque n'est pas déjà connectée
 

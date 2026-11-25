@@ -37,10 +37,10 @@ Vous pouvez également sélectionner une période sur une date personnalisée ou
 
 ![Capture d'écran](../../.gitbook/assets/periode-3.png)
 
-Consultez également le guide [Comment sélectionner une plage de date dans une colonne de votre P\&L](https://support.qotid.com/kb/fr/).
+Consultez également le guide [Comment sélectionner une plage de date dans une colonne de votre P\&L](comment-selectionner-periode-sur-une-plage-de-date-avec-un-mix-entre-periode-statique-et-dynamique-d.md).
 
 ## Comment réaliser une date personnalisée sur une vue de votre compte de résultat?
 
 ![Capture d'écran](../../.gitbook/assets/periode-4.png)
 
-Consultez également le guide [Comment réaliser une date personnalisée sur une vue de votre compte de résultat?](https://support.qotid.com/kb/fr/).
+Consultez également le guide [Comment réaliser une date personnalisée sur une vue de votre compte de résultat?](comment-selectionner-une-periode-sur-date-personnalisee-sur-une-vue-de-votre-compte-de-resultat.md).

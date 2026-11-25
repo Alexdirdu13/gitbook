@@ -74,13 +74,13 @@ Vous pouvez maintenant commencer à catégoriser vos flux de trésorerie, créer
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-9.png)
 
-Consultez également le guide [Comment catégoriser vos transactions bancaires](https://support.qotid.com/kb/guide/fr/comment-visualiser-vos-transactions-bancaires-hTQm7xwuGj).
+Consultez également le guide [Comment catégoriser vos transactions bancaires](../transactions-bancaires/comment-categoriser-vos-transactions-bancaires.md).
 
 ## Comment créer vos rubriques d'encaissement et décaissement
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-10.png)
 
-Consultez également le guide [Comment créer vos rubriques d'encaissement et décaissement](https://support.qotid.com/kb/guide/fr/comment-creer-vos-rubriques-dencaissement-et-decaissement-HmxrqkXq3G).
+Consultez également le guide [Comment créer vos rubriques d'encaissement et décaissement](../parametrage-du-tableau-de-tresorerie/comment-creer-vos-rubriques-dencaissement-et-decaissement.md).
 
 ## Comment saisir votre budget de trésorerie
 

@@ -24,4 +24,4 @@ Vous pouvez si nécessaire déplacer des rubriques dans d'autres rubriques ou si
 
 ![Capture d'écran](../../.gitbook/assets/reorg-4.png)
 
-Consultez également le guide [Comment créer une nouvelle vue de votre compte de résultat ?](https://support.qotid.com/kb/guide/fr/comment-creer-une-nouvelle-visualisation-sur-votre-compte-de-resultat-FzPLblsevc).
+Consultez également le guide [Comment créer une nouvelle vue de votre compte de résultat ?](../compte-de-resultat/comment-creer-une-nouvelle-visualisation-sur-votre-compte-de-resultat.md).

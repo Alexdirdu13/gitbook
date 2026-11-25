@@ -4,4 +4,4 @@ Pour partager un rapport de votre Module Compte de résultat avec vos collaborat
 
 ## Comment définir un compte de résultat par défaut
 
-Consultez également le guide [Comment partager un compte de résultat à un ou des profils utilisateurs ?](https://support.qotid.com/kb/guide/fr/comment-partager-un-compte-de-resultat-a-un-ou-des-profils-utilisateurs-rvvKDsw8OA).
+Consultez également le guide [Comment partager un compte de résultat à un ou des profils utilisateurs ?](../module-bi-reporting/compte-de-resultat/comment-partager-un-compte-de-resultat-a-un-ou-des-profils-utilisateurs.md).
