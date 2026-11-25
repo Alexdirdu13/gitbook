@@ -1,0 +1,2 @@
+# Paramétrage des écritures comptables
+
