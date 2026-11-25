@@ -10,8 +10,8 @@ Cette TVA prévisionnelle est une estimation et non une information véridique. 
 
 Cette TVA prévisionnelle se calcule de la manière suivante :
 
-* **Sur l'historique** : nous nous basons sur les transactions (bancaires) réalisées. Pour chaque transaction, nous calculons votre TVA prévisionnelle en fonction du taux de TVA que vous avez paramétré sur la rubrique de trésorerie associée. Si vous souhaitez un niveau d'analyse très fin il faut donc idéalement créer des rubriques différentes par taux de TVA.
-  * _Pour plus d'informations sur le paramétrage de vos rubriques de trésorerie,_ [_cliquez ici_](https://support.qotid.com/kb/guide/fr/comment-creer-vos-rubriques-dencaissement-et-decaissement-HmxrqkXq3G/Steps/2295124,2295411,2295412,2295407,2295408,2295413,2295409,2295410)_._
+* **Sur l'historique** : nous nous basons sur les transactions (bancaires) réalisées. Pour chaque transaction, nous calculons votre TVA prévisionnelle en fonction du taux de TVA que vous avez paramétré sur la rubrique de trésorerie associée. Si vous souhaitez un niveau d'analyse très fin, il faut donc idéalement créer des rubriques différentes par taux de TVA.
+  * _Pour plus d'informations sur le paramétrage de vos rubriques de trésorerie,_ [_cliquez ici_](../parametrage-du-tableau-de-tresorerie/comment-creer-vos-rubriques-dencaissement-et-decaissement.md)_._
 * **Sur le prévisionnel :** la TVA prévisionnelle affichée est le maximum entre :
   * la TVA calculée sur vos factures engagées sur la période considérée ; et
   * la TVA prévisionnelle basée sur vos prévisions d'encaissements et de décaissements.
@@ -21,8 +21,8 @@ Cette TVA prévisionnelle se calcule de la manière suivante :
 
 **Attention :**
 
-Cette prévision calculée par Qotid a une valeur informative. Vous pouvez ensuite vous appuyez sur cette information pour **saisir une prévision de TVA sur les rubriques "Crédit de TVA" ou "TVA payée sur la période"** dans vos rubriques d'encaissement et de décaissement selon le cas.
+Cette prévision calculée par Qotid a une valeur informative. Vous pouvez ensuite vous appuyer sur cette information pour **saisir une prévision de TVA sur les rubriques "Crédit de TVA" ou "TVA payée sur la période"** dans vos rubriques d'encaissement et de décaissement selon le cas.
 
-Lorsque vous serez débités de la TVA ou lorsque vous aurez un remboursement de TVA vous pourrez ainsi **comparer ce que vous avez réellement payé par rapport à ce que vous aviez projeté** ou ce que Qotid avait calculé.
+Lorsque vous serez débité de la TVA ou lorsque vous aurez un remboursement de TVA, vous pourrez ainsi **comparer ce que vous avez réellement payé par rapport à ce que vous aviez projeté** ou ce que Qotid avait calculé.
 
-Attention toutefois, les résultats peuvent être assez différents avec ce que Qotid avait calculé car nous calculons cette prévision mois par mois alors que parfois vous payez votre TVA au trimestre ou à l'année. Vous pouvez donc dans ce cas sommer les TVA calculées par Qotid pour trois mois et saisir ce total sur le mois sur lequel vous allez effectivement régler la TVA.
+Attention toutefois, les résultats peuvent être assez différents de ce que Qotid avait calculé, car nous calculons cette prévision mois par mois alors que parfois vous payez votre TVA au trimestre ou à l'année. Vous pouvez donc, dans ce cas, additionner les TVA calculées par Qotid pour trois mois et saisir ce total sur le mois sur lequel vous allez effectivement régler la TVA.

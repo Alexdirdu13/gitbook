@@ -2,7 +2,7 @@
 
 ## Problème d'authentification permanente sur CM/CIC
 
-Si votre banque est le CM / CIC, vous compte est probablement paramétrer pour demander une authentification forte systématique. Pour éviter cela et demander une authentification forte moins fréquente et donc éviter de devoir vous reconnecter tous les jours sur Qotid, vous devez réaliser la manipulation suivante
+Si votre banque est le CM / CIC, votre compte est probablement paramétré pour demander une authentification forte systématique. Pour éviter cela, demander une authentification forte moins fréquente et donc éviter de devoir vous reconnecter tous les jours sur Qotid, vous devez réaliser la manipulation suivante.
 
 ## Se connecter à l'interface bancaire
 
@@ -10,11 +10,11 @@ Si votre banque est le CM / CIC, vous compte est probablement paramétrer pour d
 
 Connectez-vous à votre banque depuis votre ordinateur et cliquez sur "**Profil**".
 
-## Accèder à la rubrique de gestion de l'authentification forte
+## Accéder à la rubrique de gestion de l'authentification forte
 
 ![Capture d'écran](../../.gitbook/assets/cmcic-2.png)
 
-Sous l'onglet Profil, cliquer sur "**Modes de connexion**".
+Sous l'onglet Profil, cliquez sur "**Modes de connexion**".
 
 ## Modifier la durée d'authentification forte à 90 jours
 

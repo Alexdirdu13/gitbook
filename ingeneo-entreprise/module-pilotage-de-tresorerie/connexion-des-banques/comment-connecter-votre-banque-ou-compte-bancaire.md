@@ -4,7 +4,7 @@
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-1.png)
 
-Pour connecter votre banque ou compte bancaire, vous devez d'abord cliquer sur votre module "**Trésorerie**" puis "**Banques**" cliquer sur "**Première connexion**" ou "**Gérer mes connexions bancaires**" (si vous avez déjà connecté une première banque).
+Pour connecter votre banque ou compte bancaire, vous devez d'abord cliquer sur votre module "**Trésorerie**", puis "**Banques**", puis cliquer sur "**Première connexion**" ou "**Gérer mes connexions bancaires**" (si vous avez déjà connecté une première banque).
 
 ## Connexion Powens
 
@@ -20,15 +20,15 @@ Pour information, Qotid ne stocke pas vos identifiants et mot de passe de connex
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-3.png)
 
-Sur certaines banques. Par exemple le LCL vous serez amené à devoir choisir entre plusieurs banques (LCL Entreprise, LCL Espace Pro, etc).
+Pour certaines banques, par exemple le LCL, vous serez amené à devoir choisir entre plusieurs banques (LCL Entreprise, LCL Espace Pro, etc.).
 
-## Choisir le bonne banque - Partie 2
+## Choisir la bonne banque - Partie 2
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-4.png)
 
-Si vous n'êtes pas sûr et que vous souhaitez savoir précisément quelle banque choisir il est recommandé en parallèle de se connecter à votre banque via votre interface bancaire.
+Si vous n'êtes pas sûr et que vous souhaitez savoir précisément quelle banque choisir, il est recommandé de vous connecter en parallèle à votre banque via votre interface bancaire.
 
-Lorsque vous serez connecter, visualiser l'url dans votre navigateur et faite le lien avec l'url présenter sur l'interface de connexion via Qotid.
+Lorsque vous serez connecté, visualisez l'URL dans votre navigateur et faites le lien avec l'URL présentée sur l'interface de connexion via Qotid.
 
 ## Connecter le compte bancaire à votre établissement
 
@@ -42,21 +42,19 @@ Lorsque la connexion sera réussie, vous serez redirigé vers la page Qotid.
 
 Si vous avez plusieurs établissements sur votre espace, vous devrez connecter votre compte bancaire à votre établissement.
 
-Une fois cela réalisée, votre transaction et solde bancaire remonteront automatiquement sur Qotid (cela peut prendre 1-2 minutes).
+Une fois cela réalisé, votre transaction et votre solde bancaire remonteront automatiquement sur Qotid (cela peut prendre 1 à 2 minutes).
 
-## Echec de connexion
+## Échec de connexion
 
 ![Capture d'écran](../../.gitbook/assets/connecter-banque-7.png)
 
-Si vous n'avez pas réussi à vous connecter ?
+Si vous n'avez pas réussi à vous connecter, plusieurs causes sont possibles :
 
-Il y a plusieurs possibilités ?
+* Vous n'avez pas saisi les bons identifiants pour vous connecter à votre banque.
+* Vous vous êtes trompé dans le choix de votre banque. Par exemple, si vous êtes client LCL, il y a plusieurs choix possibles (LCL Pro, LCL Entreprises, LCL Espace Pro, etc.).
+* Le mode d'authentification n'a pas fonctionné. Par exemple, si vous êtes client BNP, il y a pour BNP Net Entreprises plusieurs types de connexion possibles (Clé digitale, Navigation sécurisée, Lecteur). Parfois, un mode de connexion peut échouer et il ne faut pas hésiter à en essayer un autre.
 
-* Vous n'avez pas complété les bons identifiants pour vous connecter à votre banque
-* Vous vous êtes trompés dans le choix de votre banque. Par exemple si vous êtes client LCL, il y a plusieurs choix possibles (LCL Pro, LCL Entreprises, LCL Espace Pro, etc).
-* Le mode d'authentification n'a pas fonctionné. Par exemple si vous êtes clients BNP, il y a pour BNP Net Entreprises plusieurs types de connexion possible (Clé digitale, Navigation sécurisée, Lecteur). Parfois un mode de connexion peut échouer et il ne faut pas hésiter à essayer un autre.
-
-Dans tous les cas, n'hésitez pas à recommencer une deuxième fois et si le problème persiste, contactez le service support qui pourra vous dépanner.
+Dans tous les cas, n'hésitez pas à recommencer une deuxième fois et, si le problème persiste, contactez le service support qui pourra vous dépanner.
 
 ## Contacter le support
 

@@ -6,9 +6,9 @@
 
 Une fois que vous avez créé votre échéancier d'emprunt bancaire, vous pouvez le modifier à tout moment.
 
-Pour cela, vous pouvez vous rendre sur l'onglet Trésorerie/Emprunts bancaires.
+Pour cela, vous pouvez vous rendre sur l'onglet Trésorerie / Emprunts bancaires.
 
-Cet onglet contient la liste de tous les emprunts bancaires que vous avez créé.
+Cet onglet contient la liste de tous les emprunts bancaires que vous avez créés.
 
 Il suffit ensuite de cliquer sur l'emprunt que vous souhaitez modifier.
 
@@ -18,4 +18,4 @@ Il suffit ensuite de cliquer sur l'emprunt que vous souhaitez modifier.
 
 Vous pouvez modifier les échéances en cliquant sur le stylo à côté de chacune d'elles.
 
-Il faut cependant faire attention à ce que le solde du capital restant dû de la dernière ligne soit bien égal à 0 sinon vous ne pourrez pas sauvegarder vos modifications.
+Il faut cependant faire attention à ce que le solde du capital restant dû de la dernière ligne soit bien égal à 0, sinon vous ne pourrez pas sauvegarder vos modifications.

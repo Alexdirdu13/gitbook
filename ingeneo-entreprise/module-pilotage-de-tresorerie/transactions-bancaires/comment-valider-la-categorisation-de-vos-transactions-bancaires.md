@@ -6,9 +6,9 @@
 
 **À savoir :**
 
-Valider vos transactions bancaires permet de savoir où vous en êtes et s'assurer que vous êtes d'accord avec la catégorisation proposée par Qotid.
+Valider vos transactions bancaires permet de savoir où vous en êtes et de vous assurer que vous êtes d'accord avec la catégorisation proposée par Qotid.
 
-Il est important de noter que lorsque la transaction est catégorisée par un utilisateur ou par une règle que vous avez créé la transaction sera automatiquement validée.
+Il est important de noter que, lorsque la transaction est catégorisée par un utilisateur ou par une règle que vous avez créée, la transaction sera automatiquement validée.
 
 **Attention :**
 
@@ -18,7 +18,7 @@ Même si la catégorisation n'est pas validée, la transaction affectera votre t
 
 ![Capture d'écran](../../.gitbook/assets/valider-categorisation-2.png)
 
-Lorsque une transaction est catégoriser par Qotid, vous pourrez valider la transaction de deux manières :
+Lorsqu'une transaction est catégorisée par Qotid, vous pourrez valider la transaction de deux manières :
 
 * Soit en cliquant sur l'icône Valider
 * Soit en cochant plusieurs transactions puis en cliquant sur Valider la catégorisation
@@ -27,7 +27,7 @@ Lorsque une transaction est catégoriser par Qotid, vous pourrez valider la tran
 
 ![Capture d'écran](../../.gitbook/assets/valider-categorisation-3.png)
 
-Il existe également un onglet vous permettant de visualiser l'ensemble des transactions à valider en cliquant sur **A valider**
+Il existe également un onglet vous permettant de visualiser l'ensemble des transactions à valider en cliquant sur **À valider**.
 
 ## Comment créer une règle pour catégoriser automatiquement vos transactions ?
 

@@ -6,7 +6,7 @@
 
 ![Capture d'écran](../../.gitbook/assets/dupliquer-budget-2.png)
 
-Pour dupliquer un budget de trésorerie, rendez-vous sur "**Trésorerie**", puis "**Plan de Trésorerie**", cliquer sur votre budget puis "**Paramètres des scénario**".
+Pour dupliquer un budget de trésorerie, rendez-vous sur "**Trésorerie**", puis "**Plan de trésorerie**", cliquez sur votre budget, puis sur "**Paramètres des scénarios**".
 
 ## Dupliquer
 
@@ -14,4 +14,4 @@ Pour dupliquer un budget de trésorerie, rendez-vous sur "**Trésorerie**", puis
 
 ![Capture d'écran](../../.gitbook/assets/dupliquer-budget-4.png)
 
-Sélectionner le budget que vous souhaitez dupliquer et cliquer sur "**Dupliquer**".
+Sélectionnez le budget que vous souhaitez dupliquer et cliquez sur "**Dupliquer**".

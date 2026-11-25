@@ -4,7 +4,7 @@
 
 Pour catégoriser vos flux bancaires, il existe trois possibilités :
 
-## Catégoriser depuis la page transaction
+## Catégoriser depuis la page Transactions
 
 ![Capture d'écran](../../.gitbook/assets/categoriser-transactions-1.png)
 
@@ -12,7 +12,7 @@ Pour catégoriser vos flux de transaction depuis la page **Transactions**, il su
 
 **À savoir :**
 
-Par défaut, toutes les transactions sont indiquées comme **à catégoriser.** Lorsque vous aurez catégorisé pour la première fois votre transaction Qotid retiendra vos choix et la prochaine transaction sera automatiquement catégorisée.
+Par défaut, toutes les transactions sont indiquées comme **à catégoriser.** Lorsque vous aurez catégorisé votre transaction pour la première fois, Qotid retiendra vos choix et la prochaine transaction sera automatiquement catégorisée.
 
 ## Choisir la catégorie
 
@@ -30,7 +30,7 @@ N'hésitez pas à utiliser la fonction de recherche pour trouver plus facilement
 
 Lorsque vous catégorisez une transaction, Qotid reconnaît automatiquement les transactions identiques qui n'ont pas été catégorisées. Si c'est le cas, il vous demandera si vous souhaitez réaliser la même catégorisation pour ces transactions.
 
-Une fois votre choix valider vous retrouverez vos transactions dans votre plan de trésorerie
+Une fois votre choix validé, vous retrouverez vos transactions dans votre plan de trésorerie.
 
 ## Depuis la page Plan de trésorerie
 
@@ -38,7 +38,7 @@ Une fois votre choix valider vous retrouverez vos transactions dans votre plan d
 
 Depuis votre **Plan de trésorerie**, vous trouverez l'ensemble des transactions déjà catégorisées.
 
-Pour cela il suffit de cliquer sur la rubrique du mois actuel que vous souhaitez visualiser.
+Pour cela, il suffit de cliquer sur la rubrique du mois actuel que vous souhaitez visualiser.
 
 ## Pop-up de modification
 
@@ -50,4 +50,4 @@ Un pop-up s'ouvre et vous pouvez visualiser les transactions réalisées déjà 
 
 ![Capture d'écran](../../.gitbook/assets/categoriser-transactions-6.png)
 
-En cliquant sur les "..." puis le pinceau, vous pouvez modifier pour affecter votre transaction à une autre catégorie.
+En cliquant sur les "..." puis sur le pinceau, vous pouvez modifier la catégorie pour affecter votre transaction à une autre catégorie.

@@ -4,19 +4,19 @@
 
 ![Capture d'écran](../../.gitbook/assets/rubriques-1.png)
 
-Pour créer vos rubriques d'encaissement et de décaissement de manière personnaliser il faut vous rendre sur "**Trésorerie**" puis "**Catégories**".
+Pour créer vos rubriques d'encaissement et de décaissement de manière personnalisée, il faut vous rendre sur "**Trésorerie**", puis "**Catégories**".
 
 ## Choisir la catégorie
 
 ![Capture d'écran](../../.gitbook/assets/rubriques-2.png)
 
-À partir de cette page vous pouvez sélectionner les catégories d'encaissement ou de décaissement ou d'indicateurs clés.
+À partir de cette page, vous pouvez sélectionner les catégories d'encaissement, de décaissement ou d'indicateurs clés.
 
 ## Créer une rubrique parent
 
 ![Capture d'écran](../../.gitbook/assets/rubriques-3.png)
 
-Lorsque vous arrivez dans la catégorie de votre choix (encaissement, décaissement ou statistique) vous pouvez créer une nouvelle rubrique Parent en cliquant sur "**Ajouter une rubrique**".
+Lorsque vous arrivez dans la catégorie de votre choix (encaissement, décaissement ou statistique), vous pouvez créer une nouvelle rubrique Parent en cliquant sur "**Ajouter une rubrique**".
 
 Cette rubrique sera automatiquement ajoutée en haut et nommée "**Nouvelle rubrique**".
 
@@ -28,7 +28,7 @@ Vous pourrez ensuite renommer cette rubrique en cliquant dessus.
 
 Pour créer une rubrique Enfant sur une rubrique déjà existante, il suffit de cliquer sur la rubrique en question et de cliquer sur le "**+**".
 
-Cette rubrique Enfant sera nommée par défaut "**Nouvelle rubrique**". Pour la renommée, cliqué sur la rubrique.
+Cette rubrique Enfant sera nommée par défaut "**Nouvelle rubrique**". Pour la renommer, cliquez sur la rubrique.
 
 ## Déplacer une rubrique
 
@@ -50,7 +50,7 @@ Pour supprimer une rubrique, il suffit de cliquer sur le bouton de suppression.
 
 **Attention :**
 
-Attention vous ne pourrez supprimer une rubrique Parent contenant des Enfants. Pour cela vous devrez d'abord déplacer les Enfants dans une autre catégorie ou les supprimer avant de pouvoir supprimer le Parent.
+Vous ne pourrez pas supprimer une rubrique Parent contenant des Enfants. Pour cela, vous devrez d'abord déplacer les Enfants dans une autre catégorie ou les supprimer avant de pouvoir supprimer le Parent.
 
 ## Choisir la TVA
 
@@ -58,11 +58,11 @@ Attention vous ne pourrez supprimer une rubrique Parent contenant des Enfants. P
 
 ![Capture d'écran](../../.gitbook/assets/rubriques-9.png)
 
-Pour finir vous devrez définir un montant de TVA pour la catégorie que vous venez de créer. Pour se faire, cliquez sur la valeur de TVA et sélectionnez le bon montant.
+Pour finir, vous devrez définir un montant de TVA pour la catégorie que vous venez de créer. Pour ce faire, cliquez sur la valeur de TVA et sélectionnez le bon montant.
 
 **Attention :**
 
-Le code TVA choisie est important puisqu'il permet à Qotid d'estimer les montants de TVA que vous serez amené à décaisser ou encaisser.
+Le code TVA choisi est important, puisqu'il permet à Qotid d'estimer les montants de TVA que vous serez amené à décaisser ou encaisser.
 
 **À savoir :**
 

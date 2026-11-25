@@ -2,6 +2,6 @@
 
 ## Exporter son tableau de trésorerie
 
-Si vous avez accès au tableau de trésorerie, vous pouvez exporter votre tableau de trésorerie au format excel.
+Si vous avez accès au tableau de trésorerie, vous pouvez l'exporter au format Excel.
 
-Nous vous montrons cela dans la vidéo
+Nous vous montrons cela dans la vidéo.
