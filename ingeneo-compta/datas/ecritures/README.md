@@ -1,4 +1,3 @@
 # Ecritures
 
-* [Visualisation](visualisation.md)
-* [Import de données](import-de-donnees.md)
+{% include "../../.gitbook/includes/cartes-datas-ecritures.md" %}

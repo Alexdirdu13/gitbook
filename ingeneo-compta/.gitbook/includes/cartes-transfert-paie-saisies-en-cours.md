@@ -1,0 +1,5 @@
+---
+title: Cartes – Transfert paie – Saisies en cours
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-keyboard" style="color:$primary;">:keyboard:</i></td><td><strong>Saisie en grille</strong></td><td><a href="../../transfert-paie/saisies-en-cours/saisie-en-grille.md">saisie-en-grille.md</a></td></tr><tr><td><i class="fa-keyboard" style="color:$primary;">:keyboard:</i></td><td><strong>Saisie par salarié</strong></td><td><a href="../../transfert-paie/saisies-en-cours/saisie-par-salarie.md">saisie-par-salarie.md</a></td></tr><tr><td><i class="fa-keyboard" style="color:$primary;">:keyboard:</i></td><td><strong>Saisie par page</strong></td><td><a href="../../transfert-paie/saisies-en-cours/saisie-par-page.md">saisie-par-page.md</a></td></tr><tr><td><i class="fa-keyboard" style="color:$primary;">:keyboard:</i></td><td><strong>Saisie par variable</strong></td><td><a href="../../transfert-paie/saisies-en-cours/saisie-par-variable.md">saisie-par-variable.md</a></td></tr></tbody></table>

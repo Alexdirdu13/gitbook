@@ -1,0 +1,5 @@
+---
+title: Cartes – Administration – Autres pages
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-circle-info" style="color:$primary;">:circle-info:</i></td><td><strong>Clôture d'un dossier annuel — présentation</strong></td><td><a href="../../administration/autres-pages/dossiers-annuels-2.md">dossiers-annuels-2.md</a></td></tr><tr><td><i class="fa-lock" style="color:$primary;">:lock:</i></td><td><strong>Clôture avec réouverture</strong></td><td><a href="../../administration/autres-pages/cloture-avec-reouverture.md">cloture-avec-reouverture.md</a></td></tr><tr><td><i class="fa-lock" style="color:$primary;">:lock:</i></td><td><strong>Clôture sans réouverture</strong></td><td><a href="../../administration/autres-pages/cloture-sans-reouverture.md">cloture-sans-reouverture.md</a></td></tr><tr><td><i class="fa-list-ol" style="color:$primary;">:list-ol:</i></td><td><strong>Référentiel comptable</strong></td><td><a href="../../administration/autres-pages/referentiel-comptable.md">referentiel-comptable.md</a></td></tr></tbody></table>

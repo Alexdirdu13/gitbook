@@ -1,0 +1,5 @@
+---
+title: Cartes – Vos documents – Autres pages
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-folder-closed" style="color:$primary;">:folder-closed:</i></td><td><strong>Droits des répertoires</strong></td><td><a href="../../vos-documents/autres-pages/droits-des-repertoires.md">droits-des-repertoires.md</a></td></tr><tr><td><i class="fa-sliders" style="color:$primary;">:sliders:</i></td><td><strong>Options générales</strong></td><td><a href="../../vos-documents/autres-pages/options-generales.md">options-generales.md</a></td></tr><tr><td><i class="fa-sliders" style="color:$primary;">:sliders:</i></td><td><strong>Options utilisateur</strong></td><td><a href="../../vos-documents/autres-pages/options-utilisateur.md">options-utilisateur.md</a></td></tr><tr><td><i class="fa-file-word" style="color:$primary;">:file-word:</i></td><td><strong>Outils MS Office</strong></td><td><a href="../../vos-documents/autres-pages/outils-ms-office.md">outils-ms-office.md</a></td></tr></tbody></table>

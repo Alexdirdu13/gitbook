@@ -1,4 +1,3 @@
 # Absences
 
-* [Saisie](saisie.md)
-* [Planning](planning.md)
+{% include "../../.gitbook/includes/cartes-feuilles-de-temps-absences.md" %}

@@ -4,9 +4,8 @@ Cette partie de l'aide décrit les écrans du module **Supervision Liasse** dans
 
 ## Écrans du module
 
-* [Requêtes groupées](ecrans-du-module/requetes-groupees.md)
-* [Suivi des télédéclarations](ecrans-du-module/suivi-des-teledeclarations.md)
+{% include "../.gitbook/includes/cartes-supervision-liasse-ecrans-du-module.md" %}
 
 ## Editions
 
-* [Générateur d'états](editions/generateur-d-etats.md)
+{% include "../.gitbook/includes/cartes-supervision-liasse-editions.md" %}

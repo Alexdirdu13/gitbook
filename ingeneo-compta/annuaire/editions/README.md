@@ -1,3 +1,3 @@
 # Editions
 
-* [Générateur d'états](generateur-d-etats.md)
+{% include "../../.gitbook/includes/cartes-annuaire-editions.md" %}

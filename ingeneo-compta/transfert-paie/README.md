@@ -4,36 +4,20 @@ Cette partie de l'aide décrit les écrans du module **Transfert paie** dans la 
 
 ## Écrans du module
 
-* [Salariés](ecrans-du-module/salaries.md)
-* [Variables de paie](ecrans-du-module/variables-de-paie.md)
-* [Archives](ecrans-du-module/archives.md)
-* [Saisies validées](ecrans-du-module/saisies-validees.md)
-* [Notifications](ecrans-du-module/notifications.md)
+{% include "../.gitbook/includes/cartes-transfert-paie-ecrans-du-module.md" %}
 
 ## Saisies en cours
 
-* [Saisie en grille](saisies-en-cours/saisie-en-grille.md)
-* [Saisie par salarié](saisies-en-cours/saisie-par-salarie.md)
-* [Saisie par page](saisies-en-cours/saisie-par-page.md)
-* [Saisie par variable](saisies-en-cours/saisie-par-variable.md)
+{% include "../.gitbook/includes/cartes-transfert-paie-saisies-en-cours.md" %}
 
 ## Editions
 
-* [Modifications salariés](editions/modifications-salaries.md)
-* [Saisies](editions/saisies.md)
-* [Générateur d'états](editions/generateur-d-etats.md)
+{% include "../.gitbook/includes/cartes-transfert-paie-editions.md" %}
 
 ## Paramètres (panneau)
 
-* [Catégories de variables](parametres-panneau/categories-de-variables.md)
-* [Codes libellés emplois](parametres-panneau/codes-libelles-emplois.md)
-* [Compteurs](parametres-panneau/compteurs.md)
-* [Configuration](parametres-panneau/configuration.md)
-* [Connecteurs](parametres-panneau/connecteurs.md)
-* [Etablissements](parametres-panneau/etablissements.md)
-* [Modèles](parametres-panneau/modeles.md)
-* [Types de salariés](parametres-panneau/types-de-salaries.md)
+{% include "../.gitbook/includes/cartes-transfert-paie-parametres-panneau.md" %}
 
 ## Autres pages
 
-* [Introduction](autres-pages/introduction.md)
+{% include "../.gitbook/includes/cartes-transfert-paie-autres-pages.md" %}

@@ -1,5 +1,3 @@
 # Écrans du module
 
-* [Tableau de bord](tableau-de-bord.md)
-* [Sociétés gérées](societes-gerees.md)
-* [Options](options.md)
+{% include "../../.gitbook/includes/cartes-supervision-transfert-paie-ecrans-du-module.md" %}

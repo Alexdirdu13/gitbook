@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Ecritures](ecritures.md)
-* [Signatures](signatures.md)
+{% include "../../.gitbook/includes/cartes-facturation-ecrans-du-module.md" %}

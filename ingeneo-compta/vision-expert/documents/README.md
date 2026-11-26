@@ -1,4 +1,3 @@
 # Documents
 
-* [En cours](en-cours.md)
-* [Archivés](archives.md)
+{% include "../../.gitbook/includes/cartes-vision-expert-documents.md" %}

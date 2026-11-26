@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Introduction](introduction.md)
+{% include "../../.gitbook/includes/cartes-transfert-paie-autres-pages.md" %}

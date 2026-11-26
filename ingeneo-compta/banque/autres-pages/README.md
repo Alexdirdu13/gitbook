@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Annotations](annotations.md)
+{% include "../../.gitbook/includes/cartes-banque-autres-pages.md" %}

@@ -1,5 +1,3 @@
 # Identité
 
-* [Documents divers](documents-divers.md)
-* [Activité](activite.md)
-* [Fiche société](fiche-societe.md)
+{% include "../../.gitbook/includes/cartes-dossier-permanent-identite.md" %}

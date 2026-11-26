@@ -1,4 +1,3 @@
 # Evénements
 
-* [Événements clients](clients.md)
-* [Événements fournisseurs](fournisseurs.md)
+{% include "../../.gitbook/includes/cartes-banque-evenements.md" %}

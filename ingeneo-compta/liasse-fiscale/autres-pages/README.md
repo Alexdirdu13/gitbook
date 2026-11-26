@@ -1,5 +1,3 @@
 # Autres pages
 
-* [Introduction](introduction.md)
-* [Notes](notes.md)
-* [Présentation](presentation.md)
+{% include "../../.gitbook/includes/cartes-liasse-fiscale-autres-pages.md" %}

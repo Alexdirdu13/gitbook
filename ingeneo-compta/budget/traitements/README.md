@@ -1,3 +1,3 @@
 # Traitements
 
-* [Import](import.md)
+{% include "../../.gitbook/includes/cartes-budget-traitements.md" %}

@@ -4,41 +4,24 @@ Cette partie de l'aide décrit les écrans du module **Vision expert** dans la n
 
 ## Écrans du module
 
-* [Sociétés gérées](ecrans-du-module/societes-gerees.md)
-* [Mises en forme](ecrans-du-module/mises-en-forme.md)
-* [Générateur d'états](ecrans-du-module/generateur-d-etats.md)
-* [Contenant](ecrans-du-module/contenant.md)
+{% include "../.gitbook/includes/cartes-vision-expert-ecrans-du-module.md" %}
 
 ## Contenu
 
-* [Actualités](contenu/actualites.md)
-* [Liens](contenu/liens.md)
-* [Indicateurs personnalisés](contenu/indicateurs-personnalises.md)
-* [Modules applicatifs](contenu/modules-applicatifs.md)
-* [Indicateurs figés](contenu/indicateurs-figes.md)
-* [Alertes personnalisées](contenu/alertes-personnalisees.md)
-* [Alertes figées](contenu/alertes-figees.md)
+{% include "../.gitbook/includes/cartes-vision-expert-contenu.md" %}
 
 ## Média
 
-* [Statistiques](media/statistiques.md)
-* [Tags](media/tags.md)
-* [Informations](media/informations.md)
-* [Paramétrage utilisateurs](media/parametrage-utilisateurs.md)
+{% include "../.gitbook/includes/cartes-vision-expert-media.md" %}
 
 ## Documents
 
-* [En cours](documents/en-cours.md)
-* [Archivés](documents/archives.md)
+{% include "../.gitbook/includes/cartes-vision-expert-documents.md" %}
 
 ## Paramètres (panneau)
 
-* [Modèles](parametres-panneau/modeles.md)
+{% include "../.gitbook/includes/cartes-vision-expert-parametres-panneau.md" %}
 
 ## Autres pages
 
-* [Construction d'un agrégat](autres-pages/construction-d-un-agregat.md)
-* [Documents — présentation générale](autres-pages/presentation-generale-2-2.md)
-* [Média — présentation générale](autres-pages/presentation-generale-2.md)
-* [Notes](autres-pages/notes.md)
-* [Vision expert — présentation générale](autres-pages/presentation-generale.md)
+{% include "../.gitbook/includes/cartes-vision-expert-autres-pages.md" %}

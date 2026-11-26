@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Editions](editions.md)
+{% include "../../.gitbook/includes/cartes-feuilles-de-temps-autres-pages.md" %}

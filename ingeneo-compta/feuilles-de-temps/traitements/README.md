@@ -1,4 +1,3 @@
 # Traitements
 
-* [Reclassements](reclassements.md)
-* [Suppression des horaires](suppression-des-horaires.md)
+{% include "../../.gitbook/includes/cartes-feuilles-de-temps-traitements.md" %}

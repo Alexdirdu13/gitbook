@@ -1,0 +1,5 @@
+---
+title: Cartes – Gestion interne – Écrans du module
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-calendar-days" style="color:$primary;">:calendar-days:</i></td><td><strong>Planning</strong></td><td><a href="../../gestion-interne/ecrans-du-module/planning.md">planning.md</a></td></tr><tr><td><i class="fa-calendar-days" style="color:$primary;">:calendar-days:</i></td><td><strong>Planning — liste des échéances</strong></td><td><a href="../../gestion-interne/ecrans-du-module/planning-2-2-2.md">planning-2-2-2.md</a></td></tr><tr><td><i class="fa-list-check" style="color:$primary;">:list-check:</i></td><td><strong>Planning — positionnement des tâches</strong></td><td><a href="../../gestion-interne/ecrans-du-module/planning-2-2.md">planning-2-2.md</a></td></tr><tr><td><i class="fa-signature" style="color:$primary;">:signature:</i></td><td><strong>Signatures</strong></td><td><a href="../../gestion-interne/ecrans-du-module/signatures.md">signatures.md</a></td></tr></tbody></table>

@@ -1,5 +1,3 @@
 # Écrans du module
 
-* [Opportunités](opportunites.md)
-* [Opportunités — édition](opportunites-2.md)
-* [Actions](actions.md)
+{% include "../../.gitbook/includes/cartes-crm-ecrans-du-module.md" %}

@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [DSN](dsn.md)
-* [Données externes](donnees-externes.md)
+{% include "../../.gitbook/includes/cartes-datas-ecrans-du-module.md" %}

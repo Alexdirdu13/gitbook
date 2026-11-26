@@ -1,3 +1,3 @@
 # Écrans du module
 
-* [Panels](panels.md)
+{% include "../../.gitbook/includes/cartes-panels-ecrans-du-module.md" %}

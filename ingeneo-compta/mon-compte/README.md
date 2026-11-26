@@ -4,34 +4,20 @@ Cette partie de l'aide décrit les écrans du module **Mon compte** dans la nouv
 
 ## Écrans du module
 
-* [Factures](ecrans-du-module/factures.md)
-* [Données de l'abonné](ecrans-du-module/donnees-de-l-abonne.md)
-* [Désabonnement](ecrans-du-module/desabonnement.md)
-* [Tarifs](ecrans-du-module/tarifs.md)
+{% include "../.gitbook/includes/cartes-mon-compte-ecrans-du-module.md" %}
 
 ## Gestion des utilisateurs
 
-* [Gestion des utilisateurs — présentation](gestion-des-utilisateurs/utilisateurs-2.md)
-* [Utilisateurs](gestion-des-utilisateurs/utilisateurs.md)
-* [Profils](gestion-des-utilisateurs/profils.md)
-* [Rôles](gestion-des-utilisateurs/roles.md)
-* [Messages Ingeneo Compta](gestion-des-utilisateurs/messages-ingeneo-compta.md)
+{% include "../.gitbook/includes/cartes-mon-compte-gestion-des-utilisateurs.md" %}
 
 ## Editions
 
-* [Consommation](editions/consommation.md)
-* [Générateur d'états](editions/generateur-d-etats.md)
-* [Droits des utilisateurs](editions/droits-des-utilisateurs.md)
-* [Connexions](editions/connexions.md)
-* [Visiteurs uniques](editions/visiteurs-uniques.md)
+{% include "../.gitbook/includes/cartes-mon-compte-editions.md" %}
 
 ## Paramètres (panneau)
 
-* [E-mails](parametres-panneau/e-mails.md)
-* [Groupes de travail](parametres-panneau/groupes-de-travail.md)
-* [Postes](parametres-panneau/postes.md)
+{% include "../.gitbook/includes/cartes-mon-compte-parametres-panneau.md" %}
 
 ## Autres pages
 
-* [Engagements](autres-pages/engagements.md)
-* [Préambule](autres-pages/preambule.md)
+{% include "../.gitbook/includes/cartes-mon-compte-autres-pages.md" %}

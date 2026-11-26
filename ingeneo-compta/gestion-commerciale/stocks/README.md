@@ -1,4 +1,3 @@
 # Stocks
 
-* [Mouvements de stock](mouvements-de-stock.md)
-* [Inventaires](inventaires.md)
+{% include "../../.gitbook/includes/cartes-gestion-commerciale-stocks.md" %}

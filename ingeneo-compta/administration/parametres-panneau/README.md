@@ -1,3 +1,3 @@
 # Paramètres (panneau)
 
-* [Plans comptables](plans-comptables.md)
+{% include "../../.gitbook/includes/cartes-administration-parametres-panneau.md" %}

@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Présentation générale](presentation-generale.md)
+{% include "../../.gitbook/includes/cartes-datas-autres-pages.md" %}

@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Informations](informations.md)
+{% include "../../.gitbook/includes/cartes-vision-autres-pages.md" %}

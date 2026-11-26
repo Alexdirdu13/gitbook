@@ -4,15 +4,12 @@ Cette partie de l'aide décrit les écrans du module **Supervision DATAS** dans 
 
 ## Écrans du module
 
-* [Sociétés gérées](ecrans-du-module/societes-gerees.md)
-* [Connecteurs](ecrans-du-module/connecteurs.md)
-* [Données externes](ecrans-du-module/donnees-externes.md)
+{% include "../.gitbook/includes/cartes-supervision-datas-ecrans-du-module.md" %}
 
 ## API
 
-* [Clef abonné API](api/clef-abonne-api.md)
-* [Documentation API](api/documentation-api.md)
+{% include "../.gitbook/includes/cartes-supervision-datas-api.md" %}
 
 ## Editions
 
-* [Générateur d'états](editions/generateur-d-etats.md)
+{% include "../.gitbook/includes/cartes-supervision-datas-editions.md" %}

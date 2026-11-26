@@ -1,3 +1,3 @@
 # Écrans du module
 
-* [Ecritures](ecritures.md)
+{% include "../../.gitbook/includes/cartes-gestion-commerciale-ecrans-du-module.md" %}

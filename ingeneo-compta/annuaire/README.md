@@ -4,9 +4,8 @@ Cette partie de l'aide décrit les écrans du module **Annuaire** dans la nouvel
 
 ## Écrans du module
 
-* [Annuaire](ecrans-du-module/annuaire.md)
-* [Catégories](ecrans-du-module/categories.md)
+{% include "../.gitbook/includes/cartes-annuaire-ecrans-du-module.md" %}
 
 ## Editions
 
-* [Générateur d'états](editions/generateur-d-etats.md)
+{% include "../.gitbook/includes/cartes-annuaire-editions.md" %}

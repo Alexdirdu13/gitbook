@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Imports](imports.md)
-* [Sociétés gérées](societes-gerees.md)
+{% include "../../.gitbook/includes/cartes-supervision-transfert-banque-ecrans-du-module.md" %}

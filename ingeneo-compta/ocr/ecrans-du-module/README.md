@@ -1,5 +1,3 @@
 # Écrans du module
 
-* [OCR — présentation générale](saisies-2.md)
-* [Saisies](saisies.md)
-* [Ecritures](ecritures.md)
+{% include "../../.gitbook/includes/cartes-ocr-ecrans-du-module.md" %}

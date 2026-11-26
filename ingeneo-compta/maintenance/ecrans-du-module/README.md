@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Tickets](tickets.md)
-* [Notifications](notifications.md)
+{% include "../../.gitbook/includes/cartes-maintenance-ecrans-du-module.md" %}

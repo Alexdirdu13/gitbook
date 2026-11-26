@@ -1,4 +1,3 @@
 # Traitements
 
-* [Génération des factures](generation-des-factures.md)
-* [Réaffectation de tâches](reaffectation-de-taches.md)
+{% include "../../.gitbook/includes/cartes-gestion-interne-traitements.md" %}

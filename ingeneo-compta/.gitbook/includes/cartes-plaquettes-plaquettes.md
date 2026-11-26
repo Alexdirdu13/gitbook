@@ -1,0 +1,5 @@
+---
+title: Cartes – Plaquettes – Plaquettes
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-circle-info" style="color:$primary;">:circle-info:</i></td><td><strong>Présentation du module</strong></td><td><a href="../../plaquettes/plaquettes/presentation-du-module.md">presentation-du-module.md</a></td></tr><tr><td><i class="fa-pen-ruler" style="color:$primary;">:pen-ruler:</i></td><td><strong>L'éditeur de plaquette</strong></td><td><a href="../../plaquettes/plaquettes/l-editeur-de-plaquette.md">l-editeur-de-plaquette.md</a></td></tr><tr><td><i class="fa-copy" style="color:$primary;">:copy:</i></td><td><strong>Modèles de plaquettes</strong></td><td><a href="../../plaquettes/plaquettes/modeles-de-plaquettes.md">modeles-de-plaquettes.md</a></td></tr><tr><td><i class="fa-folder-open" style="color:$primary;">:folder-open:</i></td><td><strong>Pages de document</strong></td><td><a href="../../plaquettes/plaquettes/pages-de-document.md">pages-de-document.md</a></td></tr></tbody></table>

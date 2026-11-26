@@ -1,5 +1,3 @@
 # Écrans du module
 
-* [Sociétés gérées](societes-gerees.md)
-* [Connecteurs](connecteurs.md)
-* [Données externes](donnees-externes.md)
+{% include "../../.gitbook/includes/cartes-supervision-datas-ecrans-du-module.md" %}

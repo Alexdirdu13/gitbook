@@ -1,0 +1,5 @@
+---
+title: Cartes – Banque – Archives
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-building-columns" style="color:$primary;">:building-columns:</i></td><td><strong>Relevés bancaires archivés</strong></td><td><a href="../../banque/archives/releves-bancaires-2-2.md">releves-bancaires-2-2.md</a></td></tr><tr><td><i class="fa-calendar-check" style="color:$primary;">:calendar-check:</i></td><td><strong>Événements clients archivés</strong></td><td><a href="../../banque/archives/clients-2.md">clients-2.md</a></td></tr><tr><td><i class="fa-calendar-check" style="color:$primary;">:calendar-check:</i></td><td><strong>Événements fournisseurs archivés</strong></td><td><a href="../../banque/archives/fournisseurs-2.md">fournisseurs-2.md</a></td></tr><tr><td><i class="fa-building-columns" style="color:$primary;">:building-columns:</i></td><td><strong>Relevés bancaires</strong></td><td><a href="../../banque/archives/releves-bancaires.md">releves-bancaires.md</a></td></tr></tbody></table>

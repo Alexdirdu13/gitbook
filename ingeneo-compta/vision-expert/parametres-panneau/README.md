@@ -1,3 +1,3 @@
 # Paramètres (panneau)
 
-* [Modèles](modeles.md)
+{% include "../../.gitbook/includes/cartes-vision-expert-parametres-panneau.md" %}

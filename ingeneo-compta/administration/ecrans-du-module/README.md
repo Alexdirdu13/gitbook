@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Sociétés gérées](societes-gerees.md)
-* [Dossiers annuels](dossiers-annuels.md)
+{% include "../../.gitbook/includes/cartes-administration-ecrans-du-module.md" %}

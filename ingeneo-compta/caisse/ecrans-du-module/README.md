@@ -1,3 +1,3 @@
 # Écrans du module
 
-* [Ecritures](ecritures.md)
+{% include "../../.gitbook/includes/cartes-caisse-ecrans-du-module.md" %}

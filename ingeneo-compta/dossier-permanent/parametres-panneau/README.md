@@ -1,4 +1,3 @@
 # Paramètres (panneau)
 
-* [Banques](banques.md)
-* [Taxes](taxes.md)
+{% include "../../.gitbook/includes/cartes-dossier-permanent-parametres-panneau.md" %}

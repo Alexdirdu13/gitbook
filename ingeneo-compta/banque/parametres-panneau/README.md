@@ -1,14 +1,3 @@
 # Paramètres (panneau)
 
-* [Affectations](affectations.md)
-* [Banques](banques.md)
-* [Codes TVA](codes-tva.md)
-* [Comptes auxiliaires](comptes-auxiliaires.md)
-* [Configuration](configuration.md)
-* [Connexion comptabilité](connexion-comptabilite.md)
-* [Journaux](journaux.md)
-* [Modes de règlement](modes-de-reglement.md)
-* [Modèles d'export](modeles-d-export.md)
-* [Multimodules](multimodules.md)
-* [Plan comptable](plan-comptable.md)
-* [Règles de traduction](regles-de-traduction.md)
+{% include "../../.gitbook/includes/cartes-banque-parametres-panneau.md" %}

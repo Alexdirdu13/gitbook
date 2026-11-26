@@ -4,4 +4,4 @@ Cette partie de l'aide décrit les écrans du module **Panels** dans la nouvelle
 
 ## Écrans du module
 
-* [Panels](ecrans-du-module/panels.md)
+{% include "../.gitbook/includes/cartes-panels-ecrans-du-module.md" %}

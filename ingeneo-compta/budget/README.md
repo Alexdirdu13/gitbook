@@ -4,18 +4,12 @@ Cette partie de l'aide décrit les écrans du module **Budget** dans la nouvelle
 
 ## Écrans du module
 
-* [Saisie](ecrans-du-module/saisie.md)
-* [Edition](ecrans-du-module/edition.md)
+{% include "../.gitbook/includes/cartes-budget-ecrans-du-module.md" %}
 
 ## Traitements
 
-* [Import](traitements/import.md)
+{% include "../.gitbook/includes/cartes-budget-traitements.md" %}
 
 ## Paramètres (panneau)
 
-* [Codes TVA](parametres-panneau/codes-tva.md)
-* [Délais de règlement](parametres-panneau/delais-de-reglement.md)
-* [Etats financiers](parametres-panneau/etats-financiers.md)
-* [Journaux](parametres-panneau/journaux.md)
-* [Multimodules](parametres-panneau/multimodules.md)
-* [Plan comptable](parametres-panneau/plan-comptable.md)
+{% include "../.gitbook/includes/cartes-budget-parametres-panneau.md" %}

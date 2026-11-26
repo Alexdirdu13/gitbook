@@ -1,5 +1,3 @@
 # Paramètres (panneau)
 
-* [Configuration](configuration.md)
-* [E-mails](e-mails.md)
-* [Multimodules](multimodules.md)
+{% include "../../.gitbook/includes/cartes-liasse-fiscale-parametres-panneau.md" %}

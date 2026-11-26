@@ -1,4 +1,3 @@
 # Autres pages
 
-* [Notes](notes.md)
-* [Présentation générale](presentation-generale.md)
+{% include "../../.gitbook/includes/cartes-supervision-transfert-banque-autres-pages.md" %}

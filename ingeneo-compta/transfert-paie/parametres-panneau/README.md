@@ -1,10 +1,3 @@
 # Paramètres (panneau)
 
-* [Catégories de variables](categories-de-variables.md)
-* [Codes libellés emplois](codes-libelles-emplois.md)
-* [Compteurs](compteurs.md)
-* [Configuration](configuration.md)
-* [Connecteurs](connecteurs.md)
-* [Etablissements](etablissements.md)
-* [Modèles](modeles.md)
-* [Types de salariés](types-de-salaries.md)
+{% include "../../.gitbook/includes/cartes-transfert-paie-parametres-panneau.md" %}

@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Saisie](saisie.md)
-* [Edition](edition.md)
+{% include "../../.gitbook/includes/cartes-budget-ecrans-du-module.md" %}

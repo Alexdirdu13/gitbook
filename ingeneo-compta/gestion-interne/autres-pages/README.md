@@ -1,3 +1,3 @@
 # Autres pages
 
-* [Présentation et prise en main](presentation-et-prise-en-main.md)
+{% include "../../.gitbook/includes/cartes-gestion-interne-autres-pages.md" %}

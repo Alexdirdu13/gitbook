@@ -1,3 +1,3 @@
 # Paramètres (panneau)
 
-* [États financiers](etats-financiers.md)
+{% include "../../.gitbook/includes/cartes-plaquettes-parametres-panneau.md" %}

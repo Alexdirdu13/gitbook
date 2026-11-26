@@ -1,0 +1,5 @@
+---
+title: Cartes – Gestion interne – Missions
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-briefcase" style="color:$primary;">:briefcase:</i></td><td><strong>Missions en cours</strong></td><td><a href="../../gestion-interne/missions/missions-en-cours-2-2.md">missions-en-cours-2-2.md</a></td></tr><tr><td><i class="fa-briefcase" style="color:$primary;">:briefcase:</i></td><td><strong>Missions — paramètres de la mission</strong></td><td><a href="../../gestion-interne/missions/missions-en-cours.md">missions-en-cours.md</a></td></tr><tr><td><i class="fa-list-check" style="color:$primary;">:list-check:</i></td><td><strong>Missions — échéances des tâches</strong></td><td><a href="../../gestion-interne/missions/missions-en-cours-2.md">missions-en-cours-2.md</a></td></tr><tr><td><i class="fa-briefcase" style="color:$primary;">:briefcase:</i></td><td><strong>Missions archivées</strong></td><td><a href="../../gestion-interne/missions/missions-archivees.md">missions-archivees.md</a></td></tr></tbody></table>

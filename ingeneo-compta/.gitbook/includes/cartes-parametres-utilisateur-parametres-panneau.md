@@ -1,0 +1,5 @@
+---
+title: Cartes – Paramètres utilisateur – Paramètres (panneau)
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-sliders" style="color:$primary;">:sliders:</i></td><td><strong>Préférences</strong></td><td><a href="../../parametres-utilisateur/parametres-panneau/preferences.md">preferences.md</a></td></tr><tr><td><i class="fa-key" style="color:$primary;">:key:</i></td><td><strong>Mot de passe</strong></td><td><a href="../../parametres-utilisateur/parametres-panneau/mot-de-passe.md">mot-de-passe.md</a></td></tr><tr><td><i class="fa-mobile-screen" style="color:$primary;">:mobile-screen:</i></td><td><strong>Application mobile</strong></td><td><a href="../../parametres-utilisateur/parametres-panneau/application-mobile.md">application-mobile.md</a></td></tr><tr><td><i class="fa-key" style="color:$primary;">:key:</i></td><td><strong>Identifiants API</strong></td><td><a href="../../parametres-utilisateur/parametres-panneau/identifiants-api.md">identifiants-api.md</a></td></tr></tbody></table>

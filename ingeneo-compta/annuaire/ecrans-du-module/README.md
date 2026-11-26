@@ -1,4 +1,3 @@
 # Écrans du module
 
-* [Annuaire](annuaire.md)
-* [Catégories](categories.md)
+{% include "../../.gitbook/includes/cartes-annuaire-ecrans-du-module.md" %}

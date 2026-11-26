@@ -1,0 +1,5 @@
+---
+title: Cartes – Vision expert – Écrans du module
+---
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-building" style="color:$primary;">:building:</i></td><td><strong>Sociétés gérées</strong></td><td><a href="../../vision-expert/ecrans-du-module/societes-gerees.md">societes-gerees.md</a></td></tr><tr><td><i class="fa-palette" style="color:$primary;">:palette:</i></td><td><strong>Mises en forme</strong></td><td><a href="../../vision-expert/ecrans-du-module/mises-en-forme.md">mises-en-forme.md</a></td></tr><tr><td><i class="fa-chart-column" style="color:$primary;">:chart-column:</i></td><td><strong>Générateur d'états</strong></td><td><a href="../../vision-expert/ecrans-du-module/generateur-d-etats.md">generateur-d-etats.md</a></td></tr><tr><td><i class="fa-table-cells-large" style="color:$primary;">:table-cells-large:</i></td><td><strong>Contenant</strong></td><td><a href="../../vision-expert/ecrans-du-module/contenant.md">contenant.md</a></td></tr></tbody></table>

@@ -1,4 +1,3 @@
 # Autres pages
 
-* [Engagements](engagements.md)
-* [Préambule](preambule.md)
+{% include "../../.gitbook/includes/cartes-mon-compte-autres-pages.md" %}

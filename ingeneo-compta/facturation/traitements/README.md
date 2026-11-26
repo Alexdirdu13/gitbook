@@ -1,4 +1,3 @@
 # Traitements
 
-* [Import](import.md)
-* [Import des règlements](import-des-reglements.md)
+{% include "../../.gitbook/includes/cartes-facturation-traitements.md" %}
