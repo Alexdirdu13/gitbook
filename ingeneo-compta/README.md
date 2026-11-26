@@ -1,39 +1,35 @@
+---
+icon: book-open
+---
+
 # Aide en ligne Ingeneo Compta
 
-Bienvenue dans l'aide de la nouvelle interface d'Ingeneo Compta. Choisissez un module dans le menu de gauche, ou utilisez la recherche.
+Bienvenue dans l'aide de la nouvelle interface d'Ingeneo Compta. Choisissez un module ci-dessous ou dans le menu de gauche, ou utilisez la recherche.
 
+## Prise en main
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Fonctionnement général</strong></td><td>Ergonomie commune : page d'accueil, barre d'en-tête, grilles, formulaires et champs dynamiques.</td><td><a href="fonctionnement-general/">fonctionnement-general</a></td></tr><tr><td><h4><i class="fa-sliders" style="color:$primary;">:sliders:</i></h4></td><td><strong>Paramètres utilisateur</strong></td><td>Préférences, mot de passe, application mobile et identifiants API.</td><td><a href="parametres-utilisateur/">parametres-utilisateur</a></td></tr><tr><td><h4><i class="fa-circle-user" style="color:$primary;">:circle-user:</i></h4></td><td><strong>Mon compte</strong></td><td>Abonnement, factures, utilisateurs, profils, rôles et droits d'accès.</td><td><a href="mon-compte/">mon-compte</a></td></tr><tr><td><h4><i class="fa-life-ring" style="color:$primary;">:life-ring:</i></h4></td><td><strong>Maintenance</strong></td><td>Tickets d'assistance et notifications.</td><td><a href="maintenance/">maintenance</a></td></tr></tbody></table>
 
-## Modules
+## Cabinet et sociétés gérées
 
-* [Fonctionnement général](fonctionnement-general/)
-* [Administration](administration/)
-* [Dossier permanent](dossier-permanent/)
-* [Comptabilité](comptabilite/)
-* [Compta expert](compta-expert/)
-* [Liasse fiscale](liasse-fiscale/)
-* [Paramètres utilisateur](parametres-utilisateur/)
-* [Vos documents](vos-documents/)
-* [Mon compte](mon-compte/)
-* [Feuilles de temps](feuilles-de-temps/)
-* [Budget](budget/)
-* [CRM](crm/)
-* [Immobilisations](immobilisations/)
-* [Gestion interne](gestion-interne/)
-* [Gestion commerciale](gestion-commerciale/)
-* [Vision](vision/)
-* [Vision expert](vision-expert/)
-* [Datas](datas/)
-* [Transfert paie](transfert-paie/)
-* [Facturation](facturation/)
-* [Supervision transfert paie](supervision-transfert-paie/)
-* [Supervision transfert banque](supervision-transfert-banque/)
-* [Annuaire](annuaire/)
-* [Plaquettes](plaquettes/)
-* [Caisse](caisse/)
-* [OCR](ocr/)
-* [Banque](banque/)
-* [Panels](panels/)
-* [Maintenance](maintenance/)
-* [Supervision DATAS](supervision-datas/)
-* [Supervision Liasse](supervision-liasse/)
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-screwdriver-wrench" style="color:$primary;">:screwdriver-wrench:</i></h4></td><td><strong>Administration</strong></td><td>Sociétés gérées, dossiers annuels, plans comptables et clôtures.</td><td><a href="administration/">administration</a></td></tr><tr><td><h4><i class="fa-address-card" style="color:$primary;">:address-card:</i></h4></td><td><strong>Dossier permanent</strong></td><td>Identité, partenaires, social, fiscal et juridique de chaque société.</td><td><a href="dossier-permanent/">dossier-permanent</a></td></tr><tr><td><h4><i class="fa-briefcase" style="color:$primary;">:briefcase:</i></h4></td><td><strong>Gestion interne</strong></td><td>Missions, planning, suivi des tâches, plan de charge et facturation des missions.</td><td><a href="gestion-interne/">gestion-interne</a></td></tr><tr><td><h4><i class="fa-clock" style="color:$primary;">:clock:</i></h4></td><td><strong>Feuilles de temps</strong></td><td>Saisie des temps et des absences, plannings et validations.</td><td><a href="feuilles-de-temps/">feuilles-de-temps</a></td></tr><tr><td><h4><i class="fa-address-book" style="color:$primary;">:address-book:</i></h4></td><td><strong>Annuaire</strong></td><td>Annuaire général du cabinet et ses catégories.</td><td><a href="annuaire/">annuaire</a></td></tr><tr><td><h4><i class="fa-layer-group" style="color:$primary;">:layer-group:</i></h4></td><td><strong>Panels</strong></td><td>Regroupements de sociétés gérées.</td><td><a href="panels/">panels</a></td></tr></tbody></table>
+
+## Comptabilité et fiscalité
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-calculator" style="color:$primary;">:calculator:</i></h4></td><td><strong>Comptabilité</strong></td><td>Traitements, contrôles et états préparatoires de TVA, indicateurs personnalisés.</td><td><a href="comptabilite/">comptabilite</a></td></tr><tr><td><h4><i class="fa-user-tie" style="color:$primary;">:user-tie:</i></h4></td><td><strong>Compta expert</strong></td><td>Révision, rapprochement bancaire, lettrage, déclaration de TVA et export FEC.</td><td><a href="compta-expert/">compta-expert</a></td></tr><tr><td><h4><i class="fa-landmark" style="color:$primary;">:landmark:</i></h4></td><td><strong>Liasse fiscale</strong></td><td>Liasse, CVAE, IS, DAS2, IFU, déclaration des loyers et télétransmission.</td><td><a href="liasse-fiscale/">liasse-fiscale</a></td></tr><tr><td><h4><i class="fa-building" style="color:$primary;">:building:</i></h4></td><td><strong>Immobilisations</strong></td><td>Immobilisations, emprunts, crédits-bails, véhicules et dotations.</td><td><a href="immobilisations/">immobilisations</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><strong>Plaquettes</strong></td><td>Plaquettes de comptes annuels construites à partir des données du logiciel.</td><td><a href="plaquettes/">plaquettes</a></td></tr><tr><td><h4><i class="fa-piggy-bank" style="color:$primary;">:piggy-bank:</i></h4></td><td><strong>Budget</strong></td><td>Saisie, import et édition des budgets.</td><td><a href="budget/">budget</a></td></tr></tbody></table>
+
+## Ventes, achats et facturation
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-cart-shopping" style="color:$primary;">:cart-shopping:</i></h4></td><td><strong>Gestion commerciale</strong></td><td>Ventes, achats et stocks : devis, commandes, factures, avoirs et règlements.</td><td><a href="gestion-commerciale/">gestion-commerciale</a></td></tr><tr><td><h4><i class="fa-file-invoice" style="color:$primary;">:file-invoice:</i></h4></td><td><strong>Facturation</strong></td><td>Devis, factures, avoirs, abonnements, règlements et relances clients.</td><td><a href="facturation/">facturation</a></td></tr><tr><td><h4><i class="fa-cash-register" style="color:$primary;">:cash-register:</i></h4></td><td><strong>Caisse</strong></td><td>Saisie de caisse, remises de chèques et connexion à la comptabilité.</td><td><a href="caisse/">caisse</a></td></tr><tr><td><h4><i class="fa-handshake" style="color:$primary;">:handshake:</i></h4></td><td><strong>CRM</strong></td><td>Prospects, contacts, opportunités, actions et tâches.</td><td><a href="crm/">crm</a></td></tr></tbody></table>
+
+## Banque, pièces et paie
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-building-columns" style="color:$primary;">:building-columns:</i></h4></td><td><strong>Banque</strong></td><td>Relevés bancaires, imports Excel, CFONB et OFX, paiements et remises de chèques.</td><td><a href="banque/">banque</a></td></tr><tr><td><h4><i class="fa-file-magnifying-glass" style="color:$primary;">:file-magnifying-glass:</i></h4></td><td><strong>OCR</strong></td><td>Lecture des pièces reçues en PDF ou en image et génération des écritures.</td><td><a href="ocr/">ocr</a></td></tr><tr><td><h4><i class="fa-folder-open" style="color:$primary;">:folder-open:</i></h4></td><td><strong>Vos documents</strong></td><td>Gestion documentaire : bannettes, dossiers clients, recherche et droits.</td><td><a href="vos-documents/">vos-documents</a></td></tr><tr><td><h4><i class="fa-money-check" style="color:$primary;">:money-check:</i></h4></td><td><strong>Transfert paie</strong></td><td>Saisie des éléments variables de paie, en grille ou par salarié.</td><td><a href="transfert-paie/">transfert-paie</a></td></tr></tbody></table>
+
+## Tableaux de bord et données
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-gauge-high" style="color:$primary;">:gauge-high:</i></h4></td><td><strong>Vision</strong></td><td>Tableau de bord : chiffres clés, alertes, documents et demandes clients.</td><td><a href="vision/">vision</a></td></tr><tr><td><h4><i class="fa-chart-line" style="color:$primary;">:chart-line:</i></h4></td><td><strong>Vision expert</strong></td><td>Paramétrage de Vision : fenêtres du tableau de bord, indicateurs, alertes et actualités.</td><td><a href="vision-expert/">vision-expert</a></td></tr><tr><td><h4><i class="fa-database" style="color:$primary;">:database:</i></h4></td><td><strong>Datas</strong></td><td>Écritures d'autres logiciels, DSN et données externes qui alimentent Vision.</td><td><a href="datas/">datas</a></td></tr></tbody></table>
+
+## Supervision
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-clipboard-check" style="color:$primary;">:clipboard-check:</i></h4></td><td><strong>Supervision transfert paie</strong></td><td>Suivi mois par mois de la saisie de paie de vos sociétés gérées.</td><td><a href="supervision-transfert-paie/">supervision-transfert-paie</a></td></tr><tr><td><h4><i class="fa-right-left" style="color:$primary;">:right-left:</i></h4></td><td><strong>Supervision transfert banque</strong></td><td>Relevés bancaires reçus globalement et répartis entre les sociétés gérées.</td><td><a href="supervision-transfert-banque/">supervision-transfert-banque</a></td></tr><tr><td><h4><i class="fa-plug" style="color:$primary;">:plug:</i></h4></td><td><strong>Supervision DATAS</strong></td><td>Connecteurs API et transfert automatique des écritures, société par société.</td><td><a href="supervision-datas/">supervision-datas</a></td></tr><tr><td><h4><i class="fa-paper-plane" style="color:$primary;">:paper-plane:</i></h4></td><td><strong>Supervision Liasse</strong></td><td>Requêtes groupées et suivi des télédéclarations du cabinet.</td><td><a href="supervision-liasse/">supervision-liasse</a></td></tr></tbody></table>
