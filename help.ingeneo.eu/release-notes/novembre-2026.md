@@ -1,11 +1,27 @@
 ---
 description: >-
-  Release notes d'INGENEO PRECOMPTA du mois de novembre 2026 : versions 2.19.5,
-  2.18.0.
+  Release notes d'INGENEO PRECOMPTA du mois de novembre 2026 : versions 2.20.4,
+  2.19.5, 2.18.0.
 icon: calendar
 ---
 
 # Novembre - 2026
+
+## Version 2.20.4 – 2026-11-26
+
+### <i class="fa-arrow-trend-up">:arrow-trend-up:</i>Améliorations
+
+* **Compteur de documents sélectionnés dans le menu `Bannettes`** (Réf. 5536) : dans INGENEO PRECOMPTA, dans le menu `Bannettes`, un compteur placé sous la liste indique le nombre de documents sélectionnés par rapport au nombre total d'éléments. La sélection de plusieurs documents se fait notamment avec la touche Maj.
+* **Création d'entreprise : récupération de la raison sociale fiabilisée** (Réf. 6543) : dans INGENEO PRECOMPTA, dans l'écran `Créer une entreprise`, la raison sociale se complète correctement à partir du numéro SIREN saisi. Les entreprises référencées dans l'annuaire des entreprises sont créées avec la bonne raison sociale, sans saisie.
+* **Date d'inscription à la facturation électronique par ligne** (Réf. 7449) : dans INGENEO PRECOMPTA, dans la liste des mandats, chaque ligne affiche la date d'inscription. L'inscription est enregistrée avec sa date, comme lors d'une inscription en masse.
+* **Paramètres d'une entreprise : options masquées conservées** (Réf. 7628) : dans INGENEO PRECOMPTA, dans les paramètres d'une entreprise, l'enregistrement conserve la valeur des champs que votre profil ne permet pas de voir, comme la case `Choix de la PA SEPTEO` de la section `PLATEFORME AGRÉÉE SEPTEO`. Une entreprise déjà configurée pour la plateforme agréée garde son paramétrage, quel que soit le profil de la personne qui modifie sa fiche.
+* **Remise dans le menu `Bannettes` depuis le menu `Rechercher` pour les classeurs `Autres documents`** (Réf. 7694) : dans INGENEO PRECOMPTA, dans le menu `Rechercher`, le clic droit sur un document d'un classeur `Autres documents` propose `Réafficher dans Autres documents`. Le document passe du statut exporté au menu `Bannettes`. Pour les autres classeurs, cette action s'intitule `Remettre dans la bannette`.
+* **Statut des mailles d'adressage et contrôle à l'ajout** (Réf. 7700) : dans INGENEO PRECOMPTA, dans l'écran `Mailles de réception` (`Entreprise > Comptabilité`), une colonne `Statut` indique l'état des mailles créées sur la PA SEPTEO : coche verte pour une maille inscrite sur l'annuaire, icône grise pour une création en cours, losange rouge pour une erreur de publication, avec le message au survol. Une maille en erreur ne propose que la suppression, pour refaire une demande ; aucune suppression n'est possible pendant la création. L'ajout d'une maille est refusé si une maille active existe déjà sur la même période, avec le message `Cette maille d'adressage existe déjà ou déjà active sur une autre PA sur cette période`. L'origine `Autre PA` reste affichée pour une maille détenue par une autre plateforme agréée.
+* **Type de facture reconnu dans le document lisible généré** (Réf. 7787) : dans INGENEO PRECOMPTA, dans l'écran `Facture` (consultation d'une facture reçue), le type de facture affiché suit le code de type du fichier XML de la facture. Par exemple, une facture rectificative est désignée comme telle dans le document lisible consulté depuis `Voir les pièces jointes`.
+* **Notification des documents déposés depuis l'heure de réception** (Réf. 7884) : dans INGENEO PRECOMPTA, dans `Paramètres > Administration > Profils de droits`, étape `Notifications`, l'e-mail des documents déposés couvre la période entre l'heure de réception de la veille et celle du jour. Il se règle avec `Activer les notifications des documents déposés sur les entreprises du site`, `Jour(s) de réception` et `Heure(s) de réception`. Les documents déposés entre minuit et l'heure de réception figurent dans la notification, pour chaque entreprise du site.
+* **Mailles de l'annuaire : coexistence de deux formats de maille** (Réf. 8031) : dans INGENEO PRECOMPTA, dans la section `Facturation électronique` d'une entreprise, les mailles de l'annuaire peuvent coexister sous deux formes, par exemple le numéro SIREN suivi de `_01` et le même numéro suivi de `_1`. Les deux mailles s'affichent dans la liste de l'annuaire du dossier, comme dans la plateforme de facturation électronique ; vous pouvez reprendre la gestion d'une maille et lui attribuer une date de fin.
+* **Statut d'enrôlement mis à jour après échec de création du compte PA** (Réf. 8069) : dans INGENEO PRECOMPTA, dans l'écran de suivi des enrôlements de plateforme agréée, le statut `Enrôlement en cours` évolue lorsque la création du compte n'aboutit pas. Après plusieurs tentatives automatiques espacées d'une dizaine de minutes, l'enrôlement passe en erreur de publication et le compte en échec. Un enrôlement déjà terminé ou rejeté reste inchangé.
+* **Mail de validation de l'enrôlement : attestation, copie et destinataires** (Réf. 8403) : dans INGENEO PRECOMPTA, l'e-mail envoyé à la validation de l'enrôlement à la facturation électronique joint l'attestation d'inscription à l'annuaire PPF et s'adresse aussi au signataire cabinet. Il contient un tableau des mailles d'adressage à colonnes de largeur fixe et une phrase indiquant que la société est en capacité de recevoir les factures électroniques. Dans `Paramètres`, onglet `Configuration`, `Avancé`, sous `Mail client automatique à la validation de l'enrôlement`, renseignez l'`Adresse e-mail de copie` et choisissez `Uniquement en l'absence de signataire cabinet` ou `Systématiquement` ; chaque envoi est consigné dans `Journaux`, section `Facturation électronique`.
 
 ## Version 2.19.5 – 2026-11-19
 
